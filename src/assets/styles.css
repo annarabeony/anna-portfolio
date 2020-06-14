@@ -22,10 +22,17 @@ body {
     overflow-x: hidden;
 }
 body a {
+    position:relative;
     text-decoration: none;
     color: #2C2C2C;
     font-weight: 700;
-    text-decoration:underline;
+}
+body a::before {
+    position:absolute;
+    bottom: 3px;
+    height: 2px;
+    width:100%;
+    background:#2C2C2C;
 }
 * {
     margin: 0;
