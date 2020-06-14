@@ -18,16 +18,7 @@
         <h1 class="project_title margin-body">Cases Studies</h1>
 
         <div class="case_studies projects_section grid-col2">
-            <div class="card_project margin_right" v-for="item in $page.CaseStudies.edges" :key="item.id">
-                <g-link :to="item.node.path">
-                    <div class="image_container">
-                        <img :src="item.node.thumbnail" alt="">
-                    </div>
-                    <div class="description">
-                        <h4 class="courant_italic">{{item.node.title}}</h4>
-                    </div>
-                </g-link> 
-            </div>
+            <ProjectCard v-for="item in $page.CaseStudies.edges" :item="item" :key="item.id"/>
         </div>
 
 
@@ -35,16 +26,7 @@
         <h1 class="project_title margin-body">Experience</h1>
 
         <div class="case_studies projects_section grid-col2">
-            <div class="card_project margin_right" v-for="item in $page.CaseStudies.edges" :key="item.id">
-                <g-link :to="item.node.path">
-                    <div class="image_container">
-                        <img :src="item.node.thumbnail" alt="">
-                    </div>
-                    <div class="description">
-                        <h4 class="courant_italic">{{item.node.title}}</h4>
-                    </div>
-                </g-link> 
-            </div>
+            <ProjectCard v-for="item in $page.Experiences.edges" :item="item" :key="item.id"/>
         </div>
 
 
@@ -52,16 +34,7 @@
         <h1 class="project_title margin-body">Side Projects</h1>
 
         <div class="main_projects projects_section grid-col2">
-            <div class="card_project margin_right" v-for="item in $page.Projects.edges" :key="item.id">
-                <g-link :to="item.node.path">
-                    <div class="image_container">
-                        <img :src="item.node.thumbnail" alt="">
-                    </div>
-                    <div class="description">
-                        <h4 class="courant_italic">{{item.node.title}}</h4>
-                    </div>
-                </g-link> 
-            </div>
+            <ProjectCard v-for="item in $page.Projects.edges" :item="item" :key="item.id"/>
         </div>
            
        </main>
@@ -70,23 +43,31 @@
 
 <page-query>
 
-query CaseStudies {
-	CaseStudies: allCaseStudyPost(sortBy: "date", order: DESC) {
+query Home {
+	CaseStudies: allCaseStudyPost(sortBy: "project_date", order: DESC) {
         edges {
             node {
                 id
-                date (format: "YYYY")
                 title
                 thumbnail 
                 path
             }
         }
     },
-    Projects: allProjectPost(sortBy: "date", order: DESC) {
+    Experiences: allExperiencePost(sortBy: "project_date", order: DESC) {
         edges {
             node {
                 id
-                date (format: "YYYY")
+                title
+                thumbnail 
+                path
+            }
+        }
+    },
+    Projects: allProjectPost(sortBy: "project_date", order: DESC) {
+        edges {
+            node {
+                id
                 title
                 thumbnail
                 path
@@ -94,6 +75,7 @@ query CaseStudies {
         }
     }
 }
+
 </page-query>
 
 <script>

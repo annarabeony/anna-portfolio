@@ -4,7 +4,7 @@
             <div class="sumup">
                 <div class="heading">
                     <h2 class="project_title center">{{$page.post.title}}</h2>
-                    <h3 class="date caption center">{{$page.post.date}}</h3>
+                    <h3 class="date caption center">{{$page.post.project_date}}</h3>
                 </div>
                 <img class="image_summary" :src="$page.post.hero_image" alt="">
                 <p class="courant_italic">{{$page.post.intro}}</p>
@@ -24,6 +24,7 @@ query ProjectPost ($path: String!) {
     title
     intro
     date (format:"MMMM DD, YYYY")
+    project_date (format:"MMMM DD, YYYY")
     hero_image
     content
   }

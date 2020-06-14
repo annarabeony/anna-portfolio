@@ -21,17 +21,29 @@ module.exports = {
       }
     },
     {
-        use: "@gridsome/source-filesystem",
-        options: {
-          path: "projects/**/*.md",
-          typeName: "ProjectPost",
-          resolveAbsolutePaths: true,
-          remark: {
-            externalLinksTarget: "_blank",
-            externalLinksRel: ["nofollow", "noopener", "noreferrer"]
-          }
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "projects/**/*.md",
+        typeName: "ProjectPost",
+        resolveAbsolutePaths: true,
+        remark: {
+          externalLinksTarget: "_blank",
+          externalLinksRel: ["nofollow", "noopener", "noreferrer"]
         }
       }
+    },
+    {
+      use: "@gridsome/source-filesystem",
+      options: {
+        path: "Experience/**/*.md",
+        typeName: "ExperiencePost",
+        resolveAbsolutePaths: true,
+        remark: {
+          externalLinksTarget: "_blank",
+          externalLinksRel: ["nofollow", "noopener", "noreferrer"]
+        }
+      }
+    }
   ],
   transformers: {
     remark: {

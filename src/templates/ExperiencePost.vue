@@ -1,6 +1,5 @@
 <template>
     <LayoutPost>
-
         <main class="project_page main">
             <div class="sumup">
                 <div class="heading">
@@ -11,20 +10,22 @@
                 <p class="courant_italic">{{$page.post.intro}}</p>
             </div>
             <div class="separator"></div>
-            <div class="x-content" v-html="$page.post.content" ></div>
+            <div class="content" v-html="$page.post.content">
+                
+            </div>
         </main>
-   
+
     </LayoutPost>
 </template>
 
 <page-query>
-query ProjectPost ($path: String!) {
-  post: projectPost (path: $path) {
+query ExperiencePost ($path: String!) {
+  post: experiencePost (path: $path) {
     title
     intro
     date (format:"MMMM DD, YYYY")
     project_date (format:"MMMM DD, YYYY")
-    hero_image 
+    hero_image
     content
   }
 }
@@ -34,7 +35,7 @@ query ProjectPost ($path: String!) {
 export default {
   metaInfo () {
     return {
-      title: this.$page.post.title
+      //title: this.$page.post.title,
     }
   }
 }
@@ -69,8 +70,4 @@ export default {
 
 
 
-
-
-
-/*.x-content {}*/
 </style>
