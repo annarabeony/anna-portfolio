@@ -1,26 +1,16 @@
 ---
 label: Experience
 hide_body: false
-display_field: title
 fields:
-- name: project_start
+- name: project_date
   type: datetime
-  label: Project start
+  label: Project date
   config:
     required: false
     date_format: 
     time_format: 
     display_utc: false
   description: The date when the project happened
-- name: project_end
-  type: datetime
-  label: project end
-  description: ''
-  config:
-    required: false
-    date_format: ''
-    time_format: 
-    display_utc: false
 - type: file
   name: thumbnail
   label: Thumbnail
