@@ -29,5 +29,24 @@ export default {
 
 <style lang="scss" >
 
+.image_container{
+    position: relative;
+    padding-bottom: 70%;
+    overflow: hidden;
+    border-radius: 3px;
+    margin: 2rem 0;
+    background: #FAFAFA;
+    img{
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top:0;
+        left:0;
+        right:0;
+        bottom: 0;
+        object-fit: cover;
+    }
+}
+
 
 </style>

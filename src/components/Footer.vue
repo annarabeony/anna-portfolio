@@ -4,7 +4,7 @@
                 <h2 class="project_title">{{settings.footer_title}}</h2>
                 <p class="courant_italic"  v-html="settings.footer_text" ></p>
 
-                
+
                 <a href="anna-rabeony.pdf" target="_blank">
                      <div class="resume_link">
                          <h4 class="courant_bold">Read Resumé</h4>
@@ -53,6 +53,46 @@ export default {
 }
 </script>
 
-<style scoped>
+<style lang="scss" >
+/* Footer */
+.footer {
+  background-color: #FAFAFA;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10rem 28vw 0 28vw;
+}
+
+.footer .contact .project_title {
+  margin: 0 0 1rem 0;
+}
+
+.footer .contact .resume_link {
+  margin: 20px 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+  font-style: italic;
+}
+
+.footer .contact .resume_link img {
+  margin: 0.3rem 0 0 0.5rem;
+  align-content: center;
+  align-self: center;
+}
+
+.footer .social_media {
+  margin: 50px 0 0 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 40%;
+}
+
+.credit {
+  padding: 2rem 0;
+  margin: 6rem 0 0 0;
+}
 
 </style>

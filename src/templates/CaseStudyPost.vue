@@ -6,7 +6,10 @@
                     <h2 class="project_title center">{{$page.post.title}}</h2>
                     <h3 class="date caption center">{{$page.post.project_date}}</h3>
                 </div>
-                <img class="image_summary" :src="$page.post.hero_image" alt="">
+                <div class="image_container">
+                  <img class="image_summary" :src="$page.post.hero_image" alt="">
+                </div>
+               
                 <p class="courant_italic">{{$page.post.intro}}</p>
             </div>
             <div class="separator"></div>

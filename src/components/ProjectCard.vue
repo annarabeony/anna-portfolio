@@ -17,6 +17,31 @@ export default {
 }
 </script>
 
-<style>
-
+<style lang="scss">
+.card_project {
+    transition: 0.4s ease;
+    .image_container{
+        position: relative;
+        padding-bottom: 100%;
+        overflow: hidden;
+        background: #FAFAFA;
+        border-radius: 4px;
+        img {
+           position: absolute;
+           top:0;
+           left:0;
+           right:0;
+           bottom:0;
+           width:100%;
+           object-fit: cover;
+        }
+    } 
+    .description {
+        margin: 1rem 0 0 0;
+    }
+    &:hover {
+        transform: translateY(-20px);
+        transition: 0.4s ease;
+    }
+}
 </style>
