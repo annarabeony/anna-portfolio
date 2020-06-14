@@ -18,7 +18,7 @@ sections:
   match: "**/*"
   new_doc_ext: md
   templates:
-  - project
+  - experience
 - type: directory
   path: projects
   label: Side Projects
