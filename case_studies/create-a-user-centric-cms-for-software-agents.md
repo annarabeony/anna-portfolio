@@ -1,6 +1,6 @@
 ---
 date: 2020-03-29
-project_date: 2020-03-24T00:00:00Z
+project_date: 2020-05-12T23:00:00Z
 thumbnail: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_trumbnail.png
 title: Tomorrow - Life is too short to lose time
 intro: In the UK, we spend on average 50 days per year on screens. But is this time
