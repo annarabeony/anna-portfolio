@@ -54,7 +54,7 @@ query Home {
             }
         }
     },
-    Experiences: allExperiencePost(sortBy: "project_date", order: DESC) {
+    Experiences: allExperiencePost(sortBy: "project_start", order: DESC) {
         edges {
             node {
                 id

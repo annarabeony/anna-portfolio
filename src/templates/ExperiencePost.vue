@@ -4,7 +4,7 @@
             <div class="sumup">
                 <div class="heading">
                     <h2 class="project_title center">{{$page.post.title}}</h2>
-                    <h3 class="date caption center">{{$page.post.project_date}}</h3>
+                    <h3 class="date caption center">{{$page.post.project_start}} - {{$page.post.project_end}}</h3>
                 </div>
                 <div class="image_container">
                   <img class="image_summary" :src="$page.post.hero_image" alt="">
@@ -26,7 +26,8 @@ query ExperiencePost ($path: String!) {
     title
     intro
     date (format:"MMMM DD, YYYY")
-    project_date (format:"MMMM DD, YYYY")
+    project_start (format:"MMMM YYYY")
+    project_end (format:"MMMM YYYY")
     hero_image
     content
   }
