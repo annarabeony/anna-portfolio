@@ -5,7 +5,7 @@
                 <p class="courant_italic"  v-html="settings.footer_text" ></p>
 
 
-                <a href="anna-rabeony.pdf" target="_blank">
+                <a :href="settings.resume" target="_blank">
                      <div class="resume_link">
                          <h4 class="courant_bold">Read Resumé</h4>
                          <img src="/Icons/arrow_right.svg" alt="">
