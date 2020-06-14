@@ -47,6 +47,8 @@ fields:
   label: intro
   description: quick intro to the project
 pages:
+- Experience/ucaya.md
+- Experience/wiredcraft.md
 - case_studies/create-a-user-centric-cms-for-software-agents.md
 - case_studies/nomad.plan-an-eco-friendly-road-trip-among-friends.md
 - projects/ellie-blog-ui-kit.md
