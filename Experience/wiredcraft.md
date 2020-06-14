@@ -4,8 +4,8 @@ thumbnail: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/wiredcraft_trumb
 hero_image: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/wiredcraft_hero_image.png
 title: Wiredcraft
 intro: ''
-project_start: 2020-04-06T23:00:00Z
-project_end: 2020-06-11T23:00:00Z
+project_start: 2019-10-14T23:00:00Z
+project_end: 2020-02-01T00:00:00Z
 
 ---
 ## Why Shanghai?
