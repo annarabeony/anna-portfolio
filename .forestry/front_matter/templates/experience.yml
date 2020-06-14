@@ -1,0 +1,55 @@
+---
+label: Project
+hide_body: false
+fields:
+- name: project_date
+  type: datetime
+  label: Project date
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  description: The date when the project happened
+- type: file
+  name: thumbnail
+  label: Thumbnail
+  description: This will only show up on the front page
+- name: hero_image
+  type: file
+  config:
+    maxSize: 64
+  label: hero image
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Date
+  config:
+    required: true
+    date_format: YYYY-MM-DD
+    time_format: ''
+    export_format: YYYY-MM-DD
+    display_utc: true
+  default: now
+  hidden: true
+- name: intro
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: intro
+  description: quick intro to the project
+pages:
+- Experience/ucaya.md
+- Experience/wiredcraft.md
+- case_studies/create-a-user-centric-cms-for-software-agents.md
+- case_studies/nomad.plan-an-eco-friendly-road-trip-among-friends.md
+- projects/ellie-blog-ui-kit.md
+- projects/midori-build-an-mobile-ui-kit-for-a-travel-app.md

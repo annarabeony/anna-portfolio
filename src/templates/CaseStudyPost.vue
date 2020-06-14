@@ -26,8 +26,8 @@ query ProjectPost ($path: String!) {
   post: caseStudyPost (path: $path) {
     title
     intro
-    date (format:"MMMM DD, YYYY")
-    project_date (format:"MMMM DD, YYYY")
+    date (format:"MMMM YYYY")
+    project_date (format:"MMMM YYYY")
     hero_image
     content
   }
