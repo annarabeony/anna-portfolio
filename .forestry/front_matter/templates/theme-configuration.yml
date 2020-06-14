@@ -42,5 +42,10 @@ fields:
     schema:
       format: markdown
   label: Footer text
+- name: resume
+  type: file
+  config:
+    maxSize: 64
+  label: resume
 pages:
 - data/theme.json
