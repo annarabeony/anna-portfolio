@@ -1,10 +1,12 @@
 ---
 date: 2020-06-14
-project_date: 2019-10-31T00:00:00.000+00:00
+project_date: '2019-10-31T00:00:00.000+00:00'
 thumbnail: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/wiredcraft_trumbnail.png
 hero_image: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/wiredcraft_hero_image.png
 title: Wiredcraft
 intro: ''
+project_start: 2020-04-06T23:00:00Z
+project_end: 2020-06-11T23:00:00Z
 
 ---
 ## Why Shanghai?
