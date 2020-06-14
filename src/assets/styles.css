@@ -24,7 +24,7 @@ body {
 .content a {
     position:relative;
     text-decoration: none;
-    color: #2C2C2C;
+   
     font-weight: 700;
 }
 .content a::before {
@@ -37,6 +37,7 @@ body {
 }
 a{
     text-decoration:none
+     color: #2C2C2C;
 }
 * {
     margin: 0;
