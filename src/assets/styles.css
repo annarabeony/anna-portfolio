@@ -111,6 +111,10 @@ li {
   font-weight: 300;
   line-height: 1.7rem;
 }
+
+.footer p {
+  font-weight: 700;
+}
 h2,h3{
   font-family: 'Noto Serif JP', serif;
   color: black;
