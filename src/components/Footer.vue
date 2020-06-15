@@ -68,7 +68,7 @@ export default {
 }
 
 .footer .contact .resume_link {
-  margin: 20px 0;
+
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -77,7 +77,7 @@ export default {
 }
 
 .footer .contact .resume_link img {
-  margin: 0.3rem 0 0 0.5rem;
+
   align-content: center;
   align-self: center;
 }
