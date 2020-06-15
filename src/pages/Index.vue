@@ -38,7 +38,7 @@
         </div>
            
        </main>
-  </Layout>
+  </Layout> 
 </template>
 
 <page-query>
