@@ -7,7 +7,7 @@
 
                 <a :href="settings.resume" target="_blank">
                      <div class="resume_link">
-                         <h4 class="courant_bold">Read Resumé</h4>
+                         <p class="">Read Resumé</p>
                          <img src="/Icons/arrow_right.svg" alt="">
                  
                      </div>
