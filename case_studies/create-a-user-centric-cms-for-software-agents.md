@@ -64,6 +64,8 @@ Then, I drafted some week patterns according to different types of habits. For i
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_milestones_draft.JPG)
 
+###### Milestones Principle
+
 **Day Status -** I spent some time working on the day status style: how to make the difference between days when the habit should be done, days when it's not planned, days that users missed, and today's day. I've started some iterations by using the primary color for the current day and day when the habit was done, and two other different styles for future days when it's planned and when it's not. But it turns out too complicated and less accessible because there were too many styles. I made several iterations to simplify the thing, and finally, reach a much clearer solution (the last image at the bottom right).
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_day_status_iterations.png)
