@@ -123,7 +123,7 @@ li {
    opacity:0;
 }
 
-.resume_link .resume:hover .resume_link img {
+.resume_link:hover .resume_link img {
    opacity:1;
 }
 
