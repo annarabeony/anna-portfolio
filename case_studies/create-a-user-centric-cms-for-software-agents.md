@@ -102,6 +102,6 @@ Then, I drafted some week patterns according to different types of habits. For i
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/challenge_request.png)
 
-## As a nutshell
+## In a nutshell
 
 Through this project, I wanted to make the habit tracker something funnier (invite a friend to do the same) and bring a long-term vision to habits (highlight the aim and the consistency so that people can archive their dreams, instead of dreaming about it.
