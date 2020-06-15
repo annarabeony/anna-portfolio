@@ -115,7 +115,13 @@ li {
 .footer .resume {
   font-weight: 700;
   font-style:normal;
+    padding:0;
 }
+
+.resume_link img {
+   margin: 0.1rem 0 0 .5rem;
+}
+
 h2,h3{
   font-family: 'Noto Serif JP', serif;
   color: black;
