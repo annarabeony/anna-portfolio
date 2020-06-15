@@ -2,7 +2,7 @@
 date: 2020-03-29
 project_date: 2020-06-03T23:00:00.000+00:00
 thumbnail: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_trumbnail.png
-title: Tomorrow - Life is too short to lose time
+title: Tomorrow. Life is too short to lose time
 intro: In the UK, we spend on average 50 days per year on screens. But is this time
   really relevant? We all have dreams on our bucket list that we always postpone because
   tomorrow will be a better day. Through this project, I wanted to create an app to
@@ -100,4 +100,4 @@ Then, I drafted some week patterns according to different types of habits. For i
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/challenge_request.png)
 
-**Through this project, I wanted to make the habit tracker something funnier (invite a friend to do the same) and bring a long-term vision to habits, so that people can archive their dreams, instead of dreaming about it.** 
+**Through this project, I wanted to make the habit tracker something funnier (invite a friend to do the same) and bring a long-term vision to habits, so that people can archive their dreams, instead of dreaming about it.**
