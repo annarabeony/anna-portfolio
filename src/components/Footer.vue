@@ -2,12 +2,12 @@
     <footer class="footer">
             <div class="contact" v-if="hasContact"> 
                 <h2 class="project_title">{{settings.footer_title}}</h2>
-                <p class="courant_italic"  v-html="settings.footer_text" ></p>
+                <p class=""  v-html="settings.footer_text" ></p>
 
 
                 <a :href="settings.resume" target="_blank">
                      <div class="resume_link">
-                         <p class="">Read Resumé</p>
+                         <p class="resume">Read Resumé</p>
                          <img src="/Icons/arrow_right.svg" alt="">
                  
                      </div>
