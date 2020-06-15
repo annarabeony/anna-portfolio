@@ -115,11 +115,16 @@ li {
 .footer .resume {
   font-weight: 700;
   font-style:normal;
-    padding:0;
+  padding:0;
 }
 
 .resume_link img {
    margin: 0.1rem 0 0 .5rem;
+   opacity:0;
+}
+
+.resume_link .resume:hover .resume_link img {
+   opacity:1;
 }
 
 h2,h3{
