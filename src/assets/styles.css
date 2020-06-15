@@ -120,12 +120,9 @@ li {
 
 .resume_link img {
    margin: 0.1rem 0 0 .5rem;
-   opacity:0;
-}
-
-.resume_link:hover .resume_link img {
    opacity:1;
 }
+
 
 h2,h3{
   font-family: 'Noto Serif JP', serif;
