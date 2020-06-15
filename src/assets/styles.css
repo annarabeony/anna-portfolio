@@ -114,6 +114,7 @@ li {
 
 .footer .resume {
   font-weight: 700;
+  font-style:inerit;
 }
 h2,h3{
   font-family: 'Noto Serif JP', serif;
