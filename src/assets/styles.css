@@ -451,11 +451,11 @@ img {
   }
 
   .intro {
-    padding: 0rem 22vw 10rem 22vw;
+    padding: 0rem 22vw 0rem 22vw;
   }
 
   .scroll {
-    padding: 6rem 22vw;
+    padding: 3rem 22vw;
   }
 
   main {
@@ -504,11 +504,11 @@ img {
   }
 
   .intro {
-    padding: 0rem 26vw 10rem 26vw;
+    padding: 0rem 26vw 0rem 26vw;
   }
 
   .scroll {
-    padding: 3rem 26vw;
+    padding: 2rem 26vw;
   }
 
   main {
