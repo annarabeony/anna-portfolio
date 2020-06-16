@@ -104,6 +104,7 @@ export default {
 	  align-items: center;
 	  align-content: center;
 	  font-style: italic;
+	  padding:2rem 0;
 	}
 	.resume_link img {
 	  align-content: center;
