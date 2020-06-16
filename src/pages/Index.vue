@@ -5,14 +5,16 @@
         <div class="intro">
             <h2 class="project_title">{{settings.hero_title}}</h2>
             <p class="" v-html="settings.hero_text"></p>
+	    
+	    <a :href="settings.resume" target="_blank">
+	     	<div class="resume_link">
+			<p class="resume">Read Resumé</p>
+			<img src="/icons/arrow_right.svg" alt="">
+	     	</div>
+	    </a>
         </div>
 	
-	<a :href="settings.resume" target="_blank">
-	     <div class="resume_link">
-		 <p class="resume">Read Resumé</p>
-		 <img src="/icons/arrow_right.svg" alt="">
-	     </div>
-	</a>
+	
 
         <div class="scroll bg-grey"> 
             <h5 class="courant_regular opacity_50">Scroll Down</h5>
