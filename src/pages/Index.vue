@@ -97,4 +97,17 @@ export default {
 }
 </script>
 
+<style lang="scss" >
+	.footer .contact .resume_link {
+	  display: flex;
+	  flex-direction: row;
+	  align-items: center;
+	  align-content: center;
+	  font-style: italic;
+	}
+	.footer .contact .resume_link img {
+	  align-content: center;
+	  align-self: center;
+	}
+</style>
 
