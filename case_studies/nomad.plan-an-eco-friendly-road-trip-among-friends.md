@@ -1,6 +1,6 @@
 ---
 date: 2020-06-07
-project_date: 2020-04-30T23:00:00Z
+project_date: 2020-04-30T23:00:00.000+00:00
 thumbnail: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_trumbnail.png
 title: Nomad. Plan an eco-friendly road-trip among friends
 intro: I love to travel and I'll always love it. If you ask me what is the thing I
@@ -20,7 +20,7 @@ hero_image: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_hero_imag
 
 I've made a road-trip with two amazing friends on Kyushu island, in Japan, for 3 weeks last March. We had no car, we were in the Japanese countryside (so with very few choices in terms of public transport), but we traveled around 10 cities in Kyushu. I let you imagine the kind of organization we needed for this road-trip. Funny thing is over there, everyone asks us "But, you don't have any car?". One day, a woman was shocked to learn that we've planned to go down a mount on foot, even if it will take 4 hours (well my friend explains her we aim to get Shakira's body). So if we succeed to travel without a car even in the Japanese countryside where bus timetables are only available on paper in situ, I'm sure that traveling in Europe in an eco-friendly manner is not so complicated.
 
-**Save time and get better organized -** During this trip to Japan, we've realized we needed a tool to help us to organize this big adventure. Of course, there were a lot of tools available for us: Google Docs, Trello, Google Maps. A lot of tools, but nothing to gather everything and make it practical. Google Docs is nice to gather information, but even if you rather using comments and tables of contents, your document quickly became messy. Trello is better to gather information semantically, but as Google Docs, you can't visualize your planning in time and space (agenda and map features are missing).
+**Save time and be better organized -** During this trip to Japan, we've realized we needed a tool to help us to organize this big adventure. Of course, there were a lot of tools available for us: Google Docs, Trello, Google Maps. A lot of tools, but nothing to gather everything and make it practical. Google Docs is nice to gather information, but even if you rather using comments and tables of contents, your document quickly became messy. Trello is better to gather information semantically, but as Google Docs, you can't visualize your planning in time and space (agenda and map features are missing).
 
 > We spend 3 days to plan our trip, but with a better tool, we would be able to spend less time.
 
