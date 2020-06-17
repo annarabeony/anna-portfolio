@@ -76,7 +76,7 @@ Facing this issue, I started to quickly draw a mindmap. This helped me to get ou
 
 ###### Add a new stop to the trip
 
-**Polls -** When the user creates a new stop, it's possible to create a poll inside it. It will drive travelers to express opinions easily and so to make decisions quicker. When you haven't voted yet, for sure you can't see poll results, so not to be influenced. Travelers can discuss decision thought comments.
+**Polls -** When the user creates a new stop, it's possible to create a poll inside it. It will drive travelers to express opinions easily and so to make decisions quicker. When you haven't voted yet, for sure you can't see poll results, so not to be influenced. Travelers can discuss decisions thought comments.
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_polls.png)
 
