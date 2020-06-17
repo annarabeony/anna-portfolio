@@ -3,10 +3,9 @@ date: 2020-05-28
 project_date: 2020-04-06T23:00:00.000+00:00
 thumbnail: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/Ellie_trumbnail.png
 title: Ellie. Design a small UI kit for a Blog App
-intro: 'I have to admit, I''m someone who care a lot about the visual. Yep, I care
+intro: 'I have to admit, I''m someone who cares a lot about the visual. Yep, I care
   about visual but I never mean I would put visual before sense and ergonomic aspect.
-  But as a visual lover and as a UI/UX designer student, I created Mollie, a mobile
-  UI kit focused on the blog topic. '
+  So I created Mollie, a mobile UI kit focused on the blog topic. '
 hero_image: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/Ellie_hero.png
 
 ---
