@@ -24,7 +24,7 @@ I want to talk about Steven Pressfield, the author of "The war of art". In his b
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_life_calendar.png)
 
-###### Here is my life calendar with my 22-year-old life. Sob...
+###### Here is my life calendar with my 22-year-old life...
 
 ## Problems
 
