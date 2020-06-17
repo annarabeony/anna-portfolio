@@ -82,7 +82,7 @@ Facing this issue, I started to quickly draw a mindmap. This helped me to get ou
 
 ###### Poll
 
-**Maps & Itinerary -** The first thing we will see when we open the map will be the different stops of the itinerary on the map and the next stop highlight on the bottom-sheet. When we drag this bottom-sheet to the top, we can have a detailed view of the itinerary with all the stops. The selected stop (in green) will be defined according to the current position of the user/
+**Maps & Itinerary -** The first thing we will see when we open the map will be the different stops of the itinerary on the map and the next stop highlight on the bottom-sheet. When we drag this bottom-sheet to the top, we can have a detailed view of the itinerary with all the stops. The selected stop (in green) will be defined according to the current position of the user.
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_map_itinerary.png)
 
