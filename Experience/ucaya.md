@@ -21,4 +21,4 @@ During this internship, I've worked on the mobile app. Its aim is to control rem
 
 ## In a nutshell
 
-I came at Ucaya a few months before the product release, I had the opportunity to the product launch and its promotion. I was also able to attend product demos facing users, and that was a very exciting part of the project. It was so nice to see this project become a reality, and also get very good feedbacks from the users, all very curious about the product.
+I came at Ucaya a few months before the product release, I had the opportunity to participate in the product launch and its promotion. I was also able to attend product demos facing users, and that was a very exciting part of the project. It was so nice to see this project become a reality, and also get very good feedbacks from the users, all very curious about the product.
