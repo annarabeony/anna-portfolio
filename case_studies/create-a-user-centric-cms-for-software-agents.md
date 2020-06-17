@@ -60,7 +60,7 @@ Then, I drafted some week patterns according to different types of habits. For i
 
 ###### Challenge Request Flow
 
-**Milestones & Long-Term Vision -** One of the main pain points about building new habits is to... make it a real habit, so not to give it up. At this point, I've understood that I will need to bring a long-term vision to those habits, in order to give real value to keep it doing. Users need to feel their improvement and benefits. Then, milestones came to me as a great idea. We also need to keep going step by step and archive goals one after another.
+**Milestones & Long-Term Vision -** One of the main pain points about building new habits is to... make it a real habit, so not to give it up. At this point, I've understood that I will need to bring a long-term vision to those habits, in order to give real value to keep it doing. Users need to feel their improvement and benefits. Then, milestones came to me as a great idea, to go on step by step and archive goals one after another.
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_milestones_draft.JPG)
 
