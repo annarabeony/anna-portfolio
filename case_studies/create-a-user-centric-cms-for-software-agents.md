@@ -48,9 +48,9 @@ The main issues we are facing:
 
 ###### Yep, I didn't make a lot of contributions yet in Github :/
 
-Then, I drafted some week patterns according to different types of habits. For instance, pattern A could suit a daily habit that you want to break during weekends, whereas pattern B would be perfect for habits that could need more time in a day when you have a lot of free time on weekends (like DIY projects). The idea would be to allows users to draw their own week patterns to set days when they want to repeat the habit, and then they will be able to visualize their consistency during the current or past months.
+Then, I drafted some week patterns according to different types of habits. For instance, the second pattern (see picture below) could suit a daily habit that you want to break during weekends, whereas the third one would be perfect for habits that could need more time in a day when you have a lot of free time on weekends (like DIY projects). The idea would be to allows users to draw their own week patterns to set days when they want to repeat the habit, and then they will be able to visualize their consistency during the current or past months.
 
-![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_day_status_iterations.png)
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_week_pattern.JPG)
 
 ###### Some Week Pattern for different kind of habits
 
