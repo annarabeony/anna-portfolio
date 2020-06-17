@@ -6,7 +6,7 @@ module.exports = {
   siteUrl: `https://www.itsnwa.com`,
   host: "0.0.0.0",
   titleTemplate: "%s - Anna Rabeony",
-  siteDescription: "Creative designer and unicorn",
+  siteDescription: "Anna Rabeony - I’m a Product Design Student based in London, previously interned with Wiredcraft, in Shanghai and with Ucaya, in Nantes. If you’re interested in getting in touch, feel free to contact me",
   plugins: [
     {
       use: "@gridsome/source-filesystem",
