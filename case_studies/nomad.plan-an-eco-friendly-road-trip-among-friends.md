@@ -88,7 +88,7 @@ Facing this issue, I started to quickly draw a mindmap. This helped me to get ou
 
 ###### Trip itinerary
 
-**Map & Explore Places -** We are also able to explore some places and directly add it to our trip. We can remove a stop from the trip with "remove" or share this place into another app (Google Maps for instance to start navigation). Travel duration is also indicated to inform travelers.
+**Map & Explore Places -** We are also able to explore some places and directly add it to our trip. We can remove a stop from the trip or share this place into another app (Google Maps for instance to start navigation). Travel duration is also indicated to inform travelers.
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_map_place.png)
 
