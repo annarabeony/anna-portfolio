@@ -74,7 +74,7 @@ Then, I drafted some week patterns according to different types of habits. For i
 
 ## Solution & Features
 
-**Manage Habits -** On the habits screen, you'll find all the habits you've created and you can check as done habits you've done. I wanted to allows users to check habits even if those habits weren't planned for today, because sometimes we realize we can spend much more time than expected for a good habit, and that's a good thing.
+**Manage Habits -** On the habits screen, you'll find all the habits you've created and you can check as done the habits you've done. I wanted to allows users to check habits even if those habits weren't planned for today, because sometimes we realize we can spend much more time than expected for a good habit, and that's a good thing.
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_home.png)
 
