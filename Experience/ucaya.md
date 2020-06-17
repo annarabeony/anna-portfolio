@@ -17,7 +17,7 @@ I've joined Ucaya in July 2016. In fact, it was my very first experience in a de
 
 ###### 75% of French people think that remote consultation breaks social links between patients and doctors. laVitre, a step toward a more human technology
 
-During this internship, I've worked on the mobile app. Its aim is to control remotely the screen. I've also worked on several possible interactions (knock in the touchscreen display to call someone) and different product features (handwrite a message, share files and media and hand it as if it's a board, collaborate, and work together on a same shared whiteboard).
+During this internship, I've worked on the mobile app. Its aim is to control remotely the screen. I've also worked on several possible interactions (knock in the touchscreen display to call someone) and different product features (handwrite a message, share files and media and hang on it as if it's a board, collaborate, and work together on a same shared whiteboard).
 
 ## In a nutshell
 
