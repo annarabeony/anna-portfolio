@@ -1,13 +1,13 @@
 ---
 date: 2020-03-29
 project_date: 2020-06-03T23:00:00.000+00:00
-thumbnail: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_trumbnail.png
+thumbnail: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_trumbnails.png
 title: Tomorrow. Life is too short to lose time
 intro: In the UK, we spend on average 50 days per year on screens. But is this time
   really relevant? We all have dreams on our bucket list that we always postpone because
   tomorrow will be a better day. Through this project, I wanted to create an app to
   push people to start to make those dreams something real.
-hero_image: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_hero_image.png
+hero_image: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_hero.png
 
 ---
 ## Background 
