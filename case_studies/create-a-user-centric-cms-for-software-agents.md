@@ -10,7 +10,7 @@ intro: In the UK, we spend on average 50 days per year on screens. But is this t
 hero_image: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_hero.png
 
 ---
-## Background 
+## Background
 
 **A world where we procrastinate more and more -** Our world is changing very fast, and so we change our way of living as well. Our digital technologies push us to go to the most comfortable and easiest solution, again and again. Facebook is here to make us remember our friends and relatives birthdays, Waze helps us to find the right road to take, even if it's to go to your grandma's home (and the road to go to grandma's home never change), and Google is never far from us to help us to convert centimeters into millimeters, uh? That's what we call "digital amnesia". It's like to plug our brain to a hard drive so that we could find the right information we're looking for. The problem is that this digital amnesia is turning into a digital dependency. We need the Internet and digital tools to live, and most of the time, we use it even when we don't really need it. The main consequence of that is our screen time that increases more and more. In the UK, [the average screen time](https://www.codecomputerlove.com/blog/screen-time-stats) is 3 hours and 23 minutes per day, and if we convert this time into days in a year, it represents 50 days per year. This is insane. Then, if you think about what kind of app you spend the most time, you realize how much time you lose in your life.
 
@@ -41,6 +41,8 @@ The main issues we are facing:
 * Bring motivation in new good habits
 
 ## Researches & Insights
+
+**Screen Time** - Alarming figures show that we definitely lose time on our screens. But I've also realised that there are already many solutions to track our screen time. I preferred to aim the app towards the new habit tracking, rather than the screen time tracking. 
 
 **Week pattern & Grid View -** I was previously talking about the life calendar and how it's scary to see the rest of the time we have left. If you have a Github account and you take a look at your contributions on your profile page, you can see this kind of year view. A day is represented by a square and green tints depend on how much contributions you've made. First thing, this is insane to see how much a year looks short when we look at this time view. Then, the idea of using color squares to represent days and visualize consistency through a month or a year like this way is a very clever manner.
 
