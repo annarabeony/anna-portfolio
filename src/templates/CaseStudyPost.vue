@@ -10,7 +10,7 @@
                   <img class="image_summary" :src="$page.post.hero_image" alt="">
                 </div>
                
-                <p class="courant_italic">{{$page.post.intro}}</p>
+                <p class="courant_italic" v-html="$page.post.intro"></p>
             </div>
             <div class="separator"></div>
             <div class="content" v-html="$page.post.content">
