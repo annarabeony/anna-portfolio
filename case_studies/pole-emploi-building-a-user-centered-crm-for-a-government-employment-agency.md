@@ -1,6 +1,6 @@
 ---
 date: 2020-06-29
-project_date: 2019-04-30T23:00:00Z
+project_date: 2019-04-30T23:00:00.000+00:00
 thumbnail: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/poleemploi_trumbnail.png
 hero_image: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/poleemploi_hero_image.png
 title: Pôle Emploi - Building a CRM for a government employment agency
@@ -86,15 +86,15 @@ As required, we focused our work on the company adviser workflow, while consider
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/wireframe1.jpeg)
 
-User flow (1/3)
+###### User flow (1/3)
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/wireframe2.jpeg)
 
-User flow (2/3)
+###### User flow (2/3)
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/wireframe3.jpeg)
 
-User flow (3/3)
+###### User flow (3/3)
 
 ## High Fidelity Screens
 
