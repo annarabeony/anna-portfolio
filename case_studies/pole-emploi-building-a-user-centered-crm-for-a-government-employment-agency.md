@@ -26,6 +26,8 @@ Pôle Emploi team came to us with a precise issue: improving the company adviser
 * Help advisers to find the best job offers thanks to intelligent job offers suggestions
 * Help advisers to manage a large number of job offers and the company follow-up (time deadline, remind in the right time to call back and take some news...)
 
+## Research & Understanding
+
 First of all, we spend a great deal of time on-site to discuss with Pôle Emploi key workers to know how they used to work, understand their whole workflow to catch the pain points. The main challenging part for us was to be immersed in a very different field that we used to. We needed time to understand this new environment and the current user flow.
 
 **There are two different types of advisers at Pole Emploi:**
