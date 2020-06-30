@@ -47,5 +47,12 @@ fields:
   config:
     maxSize: 64
   label: resume
+- name: home_page_case_studies
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: home page case studies
 pages:
 - data/theme.json
