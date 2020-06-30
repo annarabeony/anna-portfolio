@@ -1,4 +1,14 @@
 ---
 label: home config
 hide_body: true
-fields: []
+fields:
+- name: case_studies
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: pages
+      section: case-studies
+  label: case studies
