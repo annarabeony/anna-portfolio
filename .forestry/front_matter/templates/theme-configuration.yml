@@ -50,9 +50,12 @@ fields:
 - name: home_page_case_studies
   type: list
   config:
-    use_select: false
+    use_select: true
     min: 
     max: 
+    source:
+      type: pages
+      section: case-studies
   label: home page case studies
 pages:
 - data/theme.json

@@ -12,5 +12,10 @@
   "blu": [
 
   ],
-  "resume": "https://annarabeonybucket.s3.eu-west-2.amazonaws.com/anna_resume.pdf"
+  "resume": "https://annarabeonybucket.s3.eu-west-2.amazonaws.com/anna_resume.pdf",
+  "home_page_case_studies": [
+    "case_studies/nomad.plan-an-eco-friendly-road-trip-among-friends.md",
+    "case_studies/create-a-user-centric-cms-for-software-agents.md",
+    "case_studies/pole-emploi-building-a-user-centered-crm-for-a-government-employment-agency.md"
+  ]
 }
