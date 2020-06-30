@@ -148,4 +148,4 @@ The user testing phase was very quick. One adviser came to the design school and
 
 ## As a nutshell
 
-Although the user testing phase seemed too short for us, this project made us grow as designers. The project was all the more challenging because we were not originally familiar with the subject. This difficulty pushed us to deepen our research phase as much as possible to better identify the problems that advisers may encounter in their daily working time. In addition, I was also able to realize that working on the conception of professional software was something that I really liked.
+Although the user testing phase seemed too short for us, this project made us grow as designers. The project was all the more challenging because we were not originally familiar with the subject. This difficulty pushed us to deepen our research phase as much as possible to better identify problems that advisers may encounter in their daily working time. In addition, I was also able to realize that working on the conception of professional software was something that I really liked.
