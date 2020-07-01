@@ -40,7 +40,7 @@ The main problems people faced are:
 
 ## Research & Insights
 
-Facing this issue, I started to quickly draw a mindmap. This helped me to get out of the lines and consider other alternatives I've didn't think about before, as the idea of collaboration with polls, or the differentiation of stops types (route, housing, meal) to better visualize the trip schema.
+Facing this issue, I started to quickly draw a mindmap. This helped me to get out of the lines and consider other alternatives I have didn't think about before, as the idea of collaboration with polls, or the differentiation of stops types (route, housing, meal) to better visualize the trip schema.
 
 ![https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_mindmap.png)
 
