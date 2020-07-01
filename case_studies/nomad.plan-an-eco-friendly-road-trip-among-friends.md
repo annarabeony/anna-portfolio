@@ -115,7 +115,7 @@ In both cases, colors and icons allow travelers to easily differentiate stops ty
 
 ###### Tips (left) - Create a new item in a checklist (right)
 
-## Conclusion
+## In a nutshell
 
 Even if my conviction about traveling with a sustainable manner is strong, my aim though this app was not to push people to do this way, but to make things easier for those who want.
 
