@@ -17,27 +17,27 @@ intro: _Pole Emploi is a French governmental agency which helps unemployed peopl
 ---
 ## Background
 
-The Pôle Emploi team came to us with a precise issue: improving the company adviser workflow at Pôle Emploi. This French governmental agency is very famous in France, and also because their services are free, a lot of job seekers and companies request their help. With this huge amount of requests, it's more and more complicated for the advisers to manage every applicant's requests and as well as job offers from companies by respecting due date and constraints.
+The Pôle Emploi team came to us with a precise issue: improving the company adviser workflow at Pôle Emploi. This French governmental agency is very famous in France, and also because their services are free, a lot of job seekers and companies request their help. With this huge amount of requests, it is more and more complicated for the advisers to manage every applicant's requests, as well as job offers from companies by respecting due date and constraints.
 
 **The main requests from Pôle Emploi were:**
 
 * Focus and improve the company advisers workflow and care about the company follow-up
-* Build a tool as intelligent assistance to help advisers in the recruitment phase
-* Help advisers to find the best job offers thanks to intelligent job offers suggestions
+* Build a tool as an intelligent assistance to help advisers in the recruitment phase
+* Help advisers to find the best job offers thanks to intelligent job offer suggestions
 * Help advisers to manage a large number of job offers and the company follow-up (time deadline, remind in the right time to call back and take some news...)
 
 ## Research & Understanding
 
-First of all, we spend a great deal of time on-site to discuss with Pôle Emploi key workers to know how they used to work, understand their whole workflow to catch the pain points. The main challenging part for us was to be immersed in a very different field that we used to. We needed time to understand this new environment and the current user flow.
+First of all, we spend a great deal of time on-site to discuss with Pôle Emploi key workers to know how they used to work, understand their whole workflow to catch the pain points. The main challenging part for us was to be immersed in a very different field than we were used to. We needed time to understand this new environment and the current user flow.
 
-**There are two different types of advisers at Pole Emploi:**
+**There are two different types of advisers at Pôle Emploi:**
 
 * **The job seeker adviser** focuses on helping unemployed people to find a new job, orients this person to additional training or formations if needed, help him/her to get ready for an interview. This adviser also manages his/her follow-up after the hiring to be sure that everything is fine and the job is adapted.
 * **The company adviser** focuses on the recruitment process of a company that needs help to find candidates for a job offer. The adviser sometimes goes to check on-site if the job respect laws and regulations. The mission of this adviser is to understand the company's need and request, and to find candidates through the registered job seekers at Pole Emploi. The adviser also organises interviews when the company can't.
 
-For this project, Pole Emploi asked us to focus on **the** **company's adviser workflow.** Of course, we did focus our researches on both advisers because both of them use to work together, as they act as a conduit between the job seekers and the companies.
+For this project, Pôle Emploi asked us to focus on **the** **company's adviser workflow.** Of course, we did focus our researches on both advisers because both of them use to work together, as they act as a conduit between the job seekers and the companies.
 
-**The recruitment process with Pole Emploi** - One of the very first things we had to think about was "How does the recruitment phase take place between job seekers, advisers, and companies at Pole Emploi, from the file opening to the first months of employment? We draw this user flow and use it as support then to draw ideas and insights.
+**The recruitment process with Pôle Emploi** - One of the very first things we had to think about was "How does the recruitment phase take place between job seekers, advisers, and companies at Pôle Emploi, from the file opening to the first months of employment? We've built this user flow and used it as support to draw insights.
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/userflow.png)
 
@@ -45,9 +45,9 @@ For this project, Pole Emploi asked us to focus on **the** **company's adviser w
 
 I won't go into details, so to conclude from this user flow, we've identified the following pain points:
 
-* **There are far too many email exchanges between both advisers (company's adviser & applicant's adviser).** To reduce email exchanges, It might be interesting to allow them to share information in common on a dedicated space.
-* **Communication and information between the two advisers require more clarity.** For example, we noted via the user flow above that the company was not sufficiently clear with the advisor. The candidate, therefore, did not have enough clear information which can explain his departure from the company after 3 months of employment.
-* **There's a lake of traceability.** Companies don't contact back advisers to tell them if they finally hired the applicants, and it's not easy for advisers to remember to call back each company.
+* **There are far too many email exchanges between both advisers (company's adviser & applicant's adviser).** To reduce email exchanges, It might be interesting to allow them to share information in a dedicated space.
+* **Communication and information between the two advisers require more clarity.** For example, via the user flow above, we noted that the company was not sufficiently clear with the advisor. The candidate, therefore, did not have enough clear information which can explain his departure from the company after 3 months of employment.
+* **There's a lack of traceability.** Companies don't contact back advisers to tell them if they finally hired the applicants, and it's not easy for advisers to remember to call back each company.
 
 ## Problems
 
