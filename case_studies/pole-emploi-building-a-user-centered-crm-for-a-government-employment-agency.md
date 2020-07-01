@@ -17,7 +17,7 @@ intro: _Pole Emploi is a French governmental agency which helps unemployed peopl
 ---
 ## Background
 
-Pôle Emploi team came to us with a precise issue: improving the company adviser workflow at Pôle Emploi. This French governmental agency is very famous in France, and also because their services are free, a lot of job seekers and companies request their help. With this huge amount of requests, it's more and more complicated for the advisers to manage every applicant's requests and as well as job offers from companies by respecting due date and constraints.
+The Pôle Emploi team came to us with a precise issue: improving the company adviser workflow at Pôle Emploi. This French governmental agency is very famous in France, and also because their services are free, a lot of job seekers and companies request their help. With this huge amount of requests, it's more and more complicated for the advisers to manage every applicant's requests and as well as job offers from companies by respecting due date and constraints.
 
 **The main requests from Pôle Emploi were:**
 
