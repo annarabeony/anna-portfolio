@@ -3,8 +3,8 @@ date: 2020-06-07
 project_date: 2020-04-30T23:00:00.000+00:00
 thumbnail: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_trumbnail.png
 title: Nomad. Plan an eco-friendly road-trip among friends
-intro: I love to travel and I'll always love it. If you ask me what is the thing I
-  would love to do for the rest of my life, it will definitively be traveling. But
+intro: I love to travel and I will always love it. If you ask me what is the thing
+  I would love to do for the rest of my life, it will definitively be traveling. But
   we realize more and more that traveling costs a lot for the planet, and it's not
   for sure the best ecological activity to do. Stop it? No way! As a designer, I usually
   say that there's always a solution. I have built Nomad, an app to help travelers
