@@ -7,8 +7,8 @@ intro: I love to travel and I'll always love it. If you ask me what is the thing
   would love to do for the rest of my life, it will definitively be traveling. But
   we realize more and more that traveling costs a lot for the planet, and it's not
   for sure the best ecological activity to do. Stop it? No way! As a designer, I usually
-  say that there's always a solution. Nomad is an app to help travellers to organize
-  an eco-friendly and sustainable road-trip.
+  say that there's always a solution. I have built Nomad, an app to help travelers
+  to organize an eco-friendly and sustainable road-trip.
 hero_image: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_hero_image.png
 
 ---
