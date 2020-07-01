@@ -47,32 +47,32 @@ I won't go into details, so to conclude from this user flow, we've identified th
 
 * **There are far too many email exchanges between both advisers (company's adviser & applicant's adviser).** To reduce email exchanges, It might be interesting to allow them to share information in a dedicated space.
 * **Communication and information between the two advisers require more clarity.** For example, via the user flow above, we noted that the company was not sufficiently clear with the advisor. The candidate, therefore, did not have enough clear information which can explain his departure from the company after 3 months of employment.
-* **There's a lack of traceability.** Companies don't contact back advisers to tell them if they finally hired the applicants, and it's not easy for advisers to remember to call back each company.
+* **There's a lack of traceability.** Companies do not contact back advisers to tell them if they finally hired the applicants, and it's not easy for advisers to remember to call back each company.
 
 ## Problems
 
 * **The traceability** - Did the company finally hire the candidate? If yes, is the candidate still hired at present? Why did the company hire this candidate and not the other? All this feedback from the company and the applicants is missed and advisers need it to improve their recruitment phase and better understand today's people's needs.
 * **A large number of requests and files.** Pôle Emploi is a recognized French organization and certainly the best-known in the field of recruitment. These services are free, which makes Pôle Emploi attractive. The pain point here is that more and more people call on this agency, creating more and more requests and data to process, which is critical for advisers.
 * **Waste of time on administrative tasks** - Advisers feel like they spend to much time on administrative tasks (creating a file, email exchange, finding missing information, checking availability, checking data,...) instead of staying focused on the recruitment part.
-* **Lake of information for advisers** - Amount of email exchanges shows that the information is missing or simply forgotten - how to remember someone's availabilities when you have 30 people to manage?
+* **Lack of information for advisers** - The amount of email exchanges shows that the information is missing or simply forgotten - how to remember someone's availabilities when you have 30 people to manage?
 
 ## Goals / Challenges
 
 * **Bring context to a job request** - Bring hierarchy and highlight the right information needed in order to have a better overview of the situation and the advancement of the file.
-* **Communication ease between company adviser and applicant adviser.** Build a common place where both of them can share information would be able to understand the needs of the other side (company or job seeker) and better know if it's an applicant match with a job offer or not.
+* **Communication easing between the company's adviser and applicant's adviser.** Build a common place where both of them can share information would be able to understand the needs of the other side (company or job seeker) and better know if it's an applicant match with a job offer or not.
 * **Bring suggestions and help to the adviser** - Because of the number of requests, advisers need suggestions, guides to prioritize requests, and applicants seeking.
 
 ## Insights
 
 **Highlight & prioritize information**
 
-Most of the people who posted a job offer through Pole Emploi are not recruiters. They have another job, so first of all, they don't have much time to spend in the recruitment phase (the reason why they request Pôle Emploi help) and they need tools and help to organise interviews and manage paperwork. Because most of the time, those people are not often available for calls or appointments, advisers need precise pieces of information. And because of the number of requests to manage, advisers need clear information written somewhere, because without it, finding the right information each time becomes painful and a lake of time.
+Most of the people who posted a job offer through Pôle Emploi are not recruiters. They have another job, so first of all, they do not have much time to spend in the recruitment phase (the reason why they request Pôle Emploi's help) and they need tools to help them organise interviews and manage paperwork. Also, because of the number of requests to manage, advisers need clear information written somewhere, because without it, finding the right information each time becomes painful and a lack of time.
 
 * One first part of this information could be first the availability dates, (company and job seekers), so that advisers can quickly find an interview date (in most cases, for a job offer, there could be about 10 applicants so 10 interviews to plan).
 * The deadline for the job offer - Sometimes, hiring someone is urgent, for the seasonal jobs for instance.
 * The next events so that the consultant can anticipate, prepare each event despite the huge amount of job offers to manage (interviews, on-site visits, interview preparation, one-one appointments...)
 
-In other terms, prioritize information would be also to help the adviser to answer the following question: which request should I work on first? Because there is a lot of jobs offers created every day on the platform, and some of them don't especially have a due date but last for a long time and should be highlight also. So another goal here would be to suggest to the adviser which file to work on (the most urgent ones, the oldest ones, etc...).
+In other terms, prioritize information would be also to help the adviser to answer the following question: which request should I work on first? Because there is a lot of job offers created every day on the platform, and some of them don't especially have a due date but last for a long time and should be highlighted also. So another goal here would be to suggest to the adviser which file to work on (the most urgent ones, the oldest ones, etc...).
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/filestatus.png)
 
@@ -80,11 +80,11 @@ In other terms, prioritize information would be also to help the adviser to answ
 
 **Help in the research phase**
 
-One of the parts the company consultant spend time on would be the research of applicants for a job offer. Is this job offer match with this job seeker, are the job seeker and the recruiter needs the same? This is also one of the reasons there are two types of advisers at Pole Emploi, one who focuses on the job seeker and one on the company. So, both consultants discuss the job offer and the potential applicant to see if it could match together. But time is limited and there is a lot of job offers to manage, so it would be good that needs from both sides (recruiter & job seeker) would be write down in a place that both consultants can access to.
+One of the parts the company consultant spend time on would be the research of applicants for a job offer. Does this job offer match with this job seeker, are the job seeker and the recruiter needs the same? This is also one of the reasons there are two types of advisers at Pole Emploi, one who focuses on the job seeker and one on the company. So, both consultants discuss the job offer and the potential applicant to see if it could match together. But time is limited and there is a lot of job offers to manage, so it would be good that needs from both sides (recruiter & job seeker) would be write down in a place that both consultants can access to.
 
 ## User flow
 
-As required, we focused our work on the company adviser workflow, while considering the applicant adviser. Before starting screen design, I used to draw quick wireframes on the Ipad first to test if the user flow does work and also to start to prioritise information.
+As required, we focused our work on the company adviser workflow, while considering the applicant's adviser. Before starting screen design, I used to draw quick wireframes on the Ipad first to test if the user flow does work and also to start to prioritise information.
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/wireframe1.jpeg)
 
@@ -136,7 +136,7 @@ As required, we focused our work on the company adviser workflow, while consider
 
 ###### Create a new note
 
-**Reminders** - Advisers can create reminders to help them to remind about a task (call back the company to take some news, check the recruitment advancement, etc), but they also have the possibility of adding a reminder inside a note. Indeed, the advisers, having a lot of files to process, must return at a given moment to reconnect with the company, and to go back on an old file is not always simple.
+**Reminders** - Advisers can create reminders to help them to remind about a task (call back the company to take some news, check the recruitment advancement, etc.), but they also have the possibility of adding a reminder inside a note. Indeed, the advisers, having a lot of files to process, must return at a given moment to reconnect with the company, and to go back to an old file is not always simple.
 
 ## Design Metrics
 
@@ -146,6 +146,6 @@ The user testing phase was very quick. One adviser came to the design school and
 * She was attracted by the kanban view for managing applicants in the recruitment process
 * She found the planning tab very relevant and would have liked emails to be added
 
-## As a nutshell
+## In a nutshell
 
 Although the user testing phase seemed too short for us, this project made us grow as designers. The project was all the more challenging because we were not originally familiar with the subject. This difficulty pushed us to deepen our research phase as much as possible to better identify problems that advisers may encounter in their daily working time. In addition, I was also able to realize that working on the conception of professional software was something that I really liked.
