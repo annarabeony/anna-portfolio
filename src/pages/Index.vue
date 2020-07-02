@@ -27,7 +27,7 @@
         <h1 class="project_title margin-body">Cases Studies</h1>
 
         <div class="case_studies projects_section grid-col2">
-            <ProjectCard v-for="item in $page.CaseStudies.edges" :item="item" :key="item.id"/>
+            <ProjectCard v-for="item in CaseStudies" :item="item" :key="item.id"/>
         </div>
 
 
@@ -92,6 +92,27 @@ export default {
     data(){
         return {
             settings: require("../../data/theme.json")
+        }
+    },
+    mounted(){
+        let x = this.settings.home_page_case_studies.map(d => {
+            let path = '/'+d.replace('.md','/').replace('_','-').replace('.','-')
+            let node = this.$page.CaseStudies.edges.find(e => {
+                return e.node.path == path
+            })
+            return node
+        })
+    },
+    computed : {
+        CaseStudies(){
+            let CaseStudies= this.settings.home_page_case_studies.map(d => {
+                let path = '/'+d.replace('.md','/').replace('_','-').replace('.','-')
+                let node = this.$page.CaseStudies.edges.find(e => {
+                    return e.node.path == path
+                })
+                return node
+            })
+            return CaseStudies
         }
     }
 }
