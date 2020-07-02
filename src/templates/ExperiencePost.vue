@@ -41,7 +41,20 @@ const  md = new MarkdownIt();
 export default {
   metaInfo () {
     return {
-      //title: this.$page.post.title,
+      title: this.$page.post.title,
+      meta: [
+        {
+          name: 'author',
+          content: 'Anna Rabeony'
+        },
+         {
+          name: 'description',
+          content: this.$page.post.intro
+        },{
+          name : 'robots',
+          content : "index, follow"
+        }
+      ],
     }
   },
   computed: {
