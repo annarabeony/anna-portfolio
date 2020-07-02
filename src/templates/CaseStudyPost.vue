@@ -10,7 +10,7 @@
                   <img class="image_summary" :src="$page.post.hero_image" alt="">
                 </div>
                
-                <p class="courant_italic" v-html="$page.post.intro"></p>
+                <p class="courant_italic content" v-html="intro"></p>
             </div>
             <div class="separator"></div>
             <div class="content" v-html="$page.post.content">
@@ -35,10 +35,17 @@ query ProjectPost ($path: String!) {
 </page-query>
 
 <script>
+import MarkdownIt from 'markdown-it'
+const  md = new MarkdownIt();
 export default {
   metaInfo () {
     return {
       title: this.$page.post.title,
+    }
+  },
+  computed: {
+    intro(){
+      return md.render(this.$page.post.intro)
     }
   }
 }
