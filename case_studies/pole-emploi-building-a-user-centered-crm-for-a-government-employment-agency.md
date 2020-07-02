@@ -10,8 +10,9 @@ intro: Pole Emploi is a French governmental agency which helps unemployed people
   the opportunity at school to work in partnership with this agency. This partnership
   aimed to bring fresh ideas so to help Pole Emploi to improve their workflow with
   companies and job seekers. During this project, I had the chance to work with two
-  amazing students, [Lengliang Li](https://www.behance.net/lilenglian6085) and [Morgane
-  Thomas](https://dribbble.com/mo_thomas). This project last 3 weeks.
+  amazing students, [Lengliang Li](https://www.behance.net/lilenglian6085 "lengliang
+  li") and [Morgane Thomas](https://dribbble.com/mo_thomas "morgane thomas"). This
+  project last 3 weeks.
 
 ---
 ## Background
