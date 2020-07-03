@@ -10,7 +10,7 @@ sections:
   create: documents
   match: "**/*.md"
   templates:
-  - project
+  - T_case_study
 - type: directory
   path: Experience
   label: Experience
@@ -18,14 +18,14 @@ sections:
   match: "**/*"
   new_doc_ext: md
   templates:
-  - experience
+  - T_experience
 - type: directory
   path: projects
   label: Side Projects
   create: documents
   match: "**/*.md"
   templates:
-  - project
+  - T_side_project
 - type: document
   path: data/theme.json
   label: Theme config
