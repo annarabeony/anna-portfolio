@@ -60,8 +60,5 @@ fields:
       path: 
   label: next project
 pages:
-- case_studies/create-a-user-centric-cms-for-software-agents.md
-- case_studies/nomad.plan-an-eco-friendly-road-trip-among-friends.md
-- case_studies/pole-emploi-building-a-user-centered-crm-for-a-government-employment-agency.md
 - projects/ellie-blog-ui-kit.md
 - projects/midori-build-an-mobile-ui-kit-for-a-travel-app.md
