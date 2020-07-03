@@ -7,6 +7,7 @@ title: Midori. Build a mobile UI kit for a Travel App
 intro: 'As I''ve explained it for Ellie UI kit, my aim in building UI Kits was to
   get a visual design training. This second UI kit is a little bit more complete,
   with more components, for a hotel booking app. '
+next_project: projects/ellie-blog-ui-kit.md
 
 ---
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/Midori_Components.png)
