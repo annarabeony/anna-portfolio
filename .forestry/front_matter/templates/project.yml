@@ -54,7 +54,7 @@ fields:
     options: []
     source:
       type: pages
-      section: ''
+      section: case-studies
       file: 
       path: 
   label: next project
