@@ -13,7 +13,8 @@ intro: Pole Emploi is a French governmental agency which helps unemployed people
   amazing students, [Lengliang Li](https://www.behance.net/lilenglian6085 "lengliang
   li") and [Morgane Thomas](https://dribbble.com/mo_thomas "morgane thomas"). This
   project last 3 weeks.
-next_project: 
+next_project: case_studies/nomad.plan-an-eco-friendly-road-trip-among-friends.md
+
 ---
 ## Background
 
