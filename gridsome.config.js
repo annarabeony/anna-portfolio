@@ -3,7 +3,7 @@
 
 module.exports = {
   siteName: "Portfolio of Anna Rabeony",
-  siteUrl: `https://www.itsnwa.com`,
+  siteUrl: `https://anna-rabeony.com/`,
   host: "0.0.0.0",
   titleTemplate: "%s - Anna Rabeony",
   siteDescription: "Anna Rabeony - I’m a Product Design Student based in London, previously interned with Wiredcraft, in Shanghai and with Ucaya, in Nantes. If you’re interested in getting in touch, feel free to contact me",

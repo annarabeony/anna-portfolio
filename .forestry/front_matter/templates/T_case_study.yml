@@ -1,0 +1,67 @@
+---
+label: Case study template
+hide_body: false
+display_field: title
+fields:
+- name: project_date
+  type: datetime
+  label: Project date
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  description: The date when the project happened
+- type: file
+  name: thumbnail
+  label: Thumbnail
+  description: This will only show up on the front page
+- name: hero_image
+  type: file
+  config:
+    maxSize: 64
+  label: hero image
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Date
+  config:
+    required: true
+    date_format: YYYY-MM-DD
+    time_format: ''
+    export_format: YYYY-MM-DD
+    display_utc: true
+  default: now
+  hidden: true
+- name: intro
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: intro
+  description: quick intro to the project
+- name: next_project
+  type: select
+  default: case_studies/nomad.plan-an-eco-friendly-road-trip-among-friends.md
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: case-studies
+      file: 
+      path: 
+  label: next project
+pages:
+- case_studies/create-a-user-centric-cms-for-software-agents.md
+- case_studies/nomad.plan-an-eco-friendly-road-trip-among-friends.md
+- case_studies/pole-emploi-building-a-user-centered-crm-for-a-government-employment-agency.md
+- projects/ellie-blog-ui-kit.md
+- projects/midori-build-an-mobile-ui-kit-for-a-travel-app.md

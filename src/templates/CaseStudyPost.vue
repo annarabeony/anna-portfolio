@@ -16,6 +16,10 @@
             <div class="content" v-html="$page.post.content">
                 
             </div>
+            
+            <a href="/" class="next">
+                Next project
+            </a>
         </main>
 
     </LayoutPost>
