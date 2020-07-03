@@ -10,7 +10,7 @@ intro: I love to travel and I will always love it. If you ask me what is the thi
   say that there's always a solution. I have built Nomad, an app to help travelers
   to organize an eco-friendly and sustainable road-trip.
 hero_image: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_hero_image.png
-
+next_project: 
 ---
 ## Background
 
