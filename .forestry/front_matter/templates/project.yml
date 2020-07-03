@@ -48,7 +48,7 @@ fields:
   description: quick intro to the project
 - name: next_project
   type: select
-  default: projects/ellie-blog-ui-kit.md
+  default: case_studies/nomad.plan-an-eco-friendly-road-trip-among-friends.md
   config:
     required: false
     options: []
