@@ -7,7 +7,7 @@ intro: 'I have to admit, I''m someone who cares a lot about the visual. Yep, I c
   about visual but I never mean I would put visual before sense and ergonomic aspect.
   So I created Mollie, a mobile UI kit focused on the blog topic. '
 hero_image: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/Ellie_hero.png
-next_project: projects/ellie-blog-ui-kit.md
+next_project: projects/midori-build-an-mobile-ui-kit-for-a-travel-app.md
 
 ---
 ## Why building a UI Kit?
