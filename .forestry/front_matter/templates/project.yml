@@ -48,13 +48,13 @@ fields:
   description: quick intro to the project
 - name: next_project
   type: select
-  default: []
+  default: projects/ellie-blog-ui-kit.md
   config:
     required: false
     options: []
     source:
       type: pages
-      section: 
+      section: ''
       file: 
       path: 
   label: next project
