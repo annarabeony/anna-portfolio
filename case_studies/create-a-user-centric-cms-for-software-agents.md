@@ -8,6 +8,7 @@ intro: In the UK, we spend on average 50 days per year on screens. But is this t
   tomorrow will be a better day. Through this project, I wanted to create an app to
   push people to start to make those dreams something real.
 hero_image: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_hero.png
+next_project: projects/ellie-blog-ui-kit.md
 
 ---
 ## Background
