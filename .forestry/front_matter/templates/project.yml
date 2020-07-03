@@ -1,6 +1,7 @@
 ---
-label: Project
+label: case_studies
 hide_body: false
+display_field: title
 fields:
 - name: project_date
   type: datetime
