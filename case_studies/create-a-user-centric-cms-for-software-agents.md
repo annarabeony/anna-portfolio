@@ -13,7 +13,7 @@ next_project: case_studies/pole-emploi-building-a-user-centered-crm-for-a-govern
 ---
 ## Background
 
-**A world where we procrastinate more and more -** Our world is changing very fast, and so we change our way of living as well. Our digital technologies push us to go to the most comfortable and easiest solution, again and again. Facebook is here to make us remember our friends and relatives birthdays, Waze helps us to find the right road to take, even if it's to go to your grandma's home (and the road to go to grandma's home never change), and Google is never far from us to help us to convert centimeters into millimeters, uh? That's what we call "digital amnesia". It's like to plug our brain to a hard drive so that we could find the right information we're looking for. The problem is that this digital amnesia is turning into a digital dependency. We need the Internet and digital tools to live, and most of the time, we use it even when we don't really need it. The main consequence of that is our screen time that increases more and more. In the UK, [the average screen time](https://www.codecomputerlove.com/blog/screen-time-stats) is 3 hours and 23 minutes per day, and if we convert this time into days in a year, it represents 50 days per year. This is insane. Then, if you think about what kind of app you spend the most time on, you realize how much time you lose in your life.
+**A world where we procrastinate more and more -** Our world is changing very fast, and so we change our way of living as well. Our digital tools push us to go to the most comfortable and easiest solution, again and again. Facebook is here to make us remember our friends and relatives birthdays, Waze helps us to find the right road to take, even if it's to go to your grandma's home, and Google is never far from us to help us to convert centimeters into millimeters, uh? That's what we call "digital amnesia". It's like to plug our brain to a hard drive so that we could find the right information we're looking for. The problem is that this digital amnesia is turning into a digital dependency. We need the Internet and digital tools to live, and most of the time, we use it even when we don't really need it. The main consequence of that is our screen time that increases more and more. In the UK, [the average screen time](https://www.codecomputerlove.com/blog/screen-time-stats) is 3 hours and 23 minutes per day, and if we convert this time into days in a year, it represents 50 days per year. Then, if you think about what kind of app you spend the most time on, you realize how much time you lose in your life.
 
 **Life is too short to lose time -** So as I've just said before, we're all able to lose time without realizing it. Postpone is also a way to lose time. We all have a bucket list, a list of crazy or less crazy dreams we want to achieve. Those dreams also have something in common: we are afraid of achieving it. Sometimes because it takes time, sometimes because it hard to achieve and you won't see your advancement immediately.
 
@@ -25,7 +25,7 @@ I want to talk about Steven Pressfield, the author of "The war of art". In his b
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/tomorrow_life_calendar.png)
 
-###### Here is my life calendar with my 22-year-old life...
+###### Here is my life calendar with my 22-year-old...
 
 ## Problems
 
