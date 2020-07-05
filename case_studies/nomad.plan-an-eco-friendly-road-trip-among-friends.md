@@ -102,7 +102,7 @@ Facing this issue, I started to draw a mindmap. This helped me to consider other
 * a calendar view, to visualise the trip though months, and have the view of an all-day stops
 * a schedule view, to visualise, day by day, all the stops
 
-In both cases, colors and icons allow travelers to easily differentiate stops types (routes, meals, nature, city, housing) to better understand the journey schema.
+In both cases, colors and icons allow travelers to easily differentiate stops types (routes, meals, nature, city, housing) to better understand the schedule.
 
 ![https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_agenda.gif)
 
