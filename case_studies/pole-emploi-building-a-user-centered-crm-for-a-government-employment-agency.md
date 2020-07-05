@@ -18,7 +18,7 @@ next_project: case_studies/nomad.plan-an-eco-friendly-road-trip-among-friends.md
 ---
 ## Background
 
-The Pôle Emploi team came to us with a precise request: improving the company adviser workflow at Pôle Emploi. This French governmental agency is very famous in France, and also because their services are free, a lot of job seekers and companies request their help. With this huge amount of requests, it is more and more complicated for the advisers to manage every applicant's requests, as well as job offers from companies by respecting due date and constraints. Because of the large number of requests, clients' follow-up is more and more complicated to manage, thus Pôle Emploi realise that their perceived value is under their real value. 
+The Pôle Emploi team came to us with a precise request: improving the company adviser workflow at Pôle Emploi. This French governmental agency is very famous in France, and also because their services are free, a lot of job seekers and companies request their help. With this huge amount of requests, it is more and more complicated for the advisers to manage every applicant's requests, as well as job offers from companies by respecting due date and constraints. Because of the large number of requests, clients' follow-up is more and more complicated to manage, thus Pôle Emploi realise that their perceived value is under their real value.
 
 **The main requests from Pôle Emploi were:**
 
@@ -71,7 +71,7 @@ Most people who posted a job offer through Pôle Emploi are not professional rec
 
 * One first thing would be the availability dates (company and job seekers) so that advisers can quickly find an interview date (in most cases, for a job offer, there could be about 10 applicants so 10 interviews to plan).
 * The due date for the job offer - Sometimes, hiring someone is urgent, for the seasonal jobs for instance.
-* The next events so that the consultant can anticipate, prepare each event despite the huge amount of job offers to manage (interviews, on-site visits, interview preparation, one-one appointments...)
+* The next events so that the adviser can anticipate, prepare each event despite the huge amount of job offers to manage (interviews, on-site visits, interview preparation, one-one appointments...)
 
 In other terms, prioritize information would be also to help the adviser to answer the following question: which request should I work on first? Because there is a lot of job offers created every day on the platform, and some of them don't especially have a due date but last for a long time and should be highlighted also. So another goal here would be to suggest to the adviser which file to work on (the most urgent ones, the oldest ones, etc...).
 
@@ -81,7 +81,7 @@ In other terms, prioritize information would be also to help the adviser to answ
 
 **Help in the research phase**
 
-One of the tasks the company consultant spent time on would be the research of applicants for a job offer. Does this job offer match with this job seeker, are the job seeker and the recruiter needs the same? This is also one of the reasons there are two types of advisers at Pole Emploi. So, both advisers discuss the job offer and the potential applicant to see if it could match together. But time is limited and there is a lot of job offers to manage, so it would be good that needs from both sides (recruiter & job seeker) would be write down in a place that both consultants can access to.
+One of the tasks the company adviser spent time on would be the research of applicants for a job offer. Does this job offer match with this job seeker, are the job seeker and the recruiter needs the same? This is also one of the reasons there are two types of advisers at Pole Emploi. So, both advisers discuss the job offer and the potential applicant to see if it could match together. But time is limited and there is a lot of job offers to manage, so it would be good that needs from both sides (recruiter & job seeker) would be write down in a place that both advisers can access to.
 
 ## Wireframes
 
@@ -109,7 +109,7 @@ As required, we focused our work on the company adviser workflow, while consider
 
 ###### Applicants Board
 
-**Applicant Board -** Once the user selects a file to work on, he/she can find all the applicants involved in the recruitment process and check the job detail and requirements on the sidebar at the right. 
+**Applicant Board -** Once the user selects a file to work on, he/she can find all the applicants involved in the recruitment process and check the job detail and requirements on the sidebar at the right.
 
 ![https://annarabeonybucket.s3.eu-west-2.amazonaws.com/Pool.png](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/Pool.png)
 
@@ -119,7 +119,7 @@ As required, we focused our work on the company adviser workflow, while consider
 
 ###### Applicants Pool - Filters
 
-Inside a job offer, advisers can access through the "pool" tab to a list of candidates who match with the job offer criterias. It is possible to edit those search criteria via the "filter" sidebar. 
+Inside a job offer, advisers can access through the "pool" tab to a list of candidates who match with the job offer criterias. It is possible to edit those search criteria via the "filter" sidebar.
 
 ![https://annarabeonybucket.s3.eu-west-2.amazonaws.com/applicantprofile.png](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/applicantprofile.png)
 
@@ -135,7 +135,7 @@ Inside a job offer, advisers can access through the "pool" tab to a list of cand
 
 ###### Planning Tab
 
-**Planning Tab** - Inside this tab, advisers can create reminders, events and notes related to this job offer. The sidebar on the right is still there, and if advisers select the activity tab, they access to the activity history, so that they know updates made by their colleagues about the job offer. 
+**Planning Tab** - Inside this tab, advisers can create reminders, events and notes related to this job offer. The sidebar on the right is still there, and if advisers select the activity tab, they access to the activity history, so that they know updates made by their colleagues about the job offer.
 
 ![https://annarabeonybucket.s3.eu-west-2.amazonaws.com/modalnote.png](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/modalnote.png)
 
