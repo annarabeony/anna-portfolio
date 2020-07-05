@@ -15,11 +15,11 @@ next_project: case_studies/create-a-user-centric-cms-for-software-agents.md
 
 **Eco-Friendly Road-Trip -** As I have just said previously, traveling and respecting the environment are two things that can work together. If we make some efforts, we realize that most of the activities we love to do could be done more sustainably. We can first prefer public transports, bike, or even our own feet to travel. Then we can buy products to local sellers in the country we are visiting. We can sleep at people's homes to generate money for local people, rather than huge international resorts, or we can use our tent while respecting the nature around us without generating waste. There are so many alternatives and many more opportunities and adventures to live in this way of traveling.
 
-**Planning a sustainable trip -** But why most of the people don't travel this way? Here is the pain point I wanted to work on. Organising a road-trip by car is quite practical because you can go whenever you want and feel free. But the big issue will be your carbon footprint. Now, if you decide to make this road-trip more sustainable and eco-friendly, you will need to be aware of bus or train timetables - or if you want to ride Europe by bike, you will need to plan routes you should take to ride quietly (as the [EuroVelo](https://fr.eurovelo.com/), a cycle route network all around Europe). So the pain point here is that organising a road-trip without a car is much more complex.
+**Planning a sustainable trip -** But why most of the people don't travel this way? Here is the pain point I wanted to work on. Organising a road-trip by car is quite practical because we can go whenever we want and feel free. But the big issue will be our carbon footprint. Now, if we decide to make this road-trip more sustainable and eco-friendly, we will need to be aware of bus or train timetables - or if we want to ride Europe by bike, we will need to plan routes we should take to ride quietly (as the [EuroVelo](https://fr.eurovelo.com/), a cycle route network all around Europe). So the pain point here is that organising a road-trip without a car is much more complex.
 
 I have done a road-trip with two amazing friends on Kyushu island, in Japan, for 3 weeks last March. We had no car, we were in the Japanese countryside (so with very few choices in terms of public transport), but we traveled around 10 cities in Kyushu. I let you imagine the kind of organisation we needed for this road-trip. The funny thing is over there, everyone asked us "But, you don't have any car?". One day, a woman was shocked to learn that we have planned to go down a mount by feet, even if it would take 4 hours. So if we succeed to travel without a car even in the Japanese countryside where bus timetables are only available on paper in situ, I am sure that traveling in Europe in an eco-friendly manner is not so complicated.
 
-**Save time and be better organised -** During this trip to Japan, we have realised we needed a tool to help us to organise this big adventure. Of course, there were a lot of tools available for us: Google Docs, Trello, Google Maps. A lot of tools, but nothing to gather everything in the same place and make it practical. Google Docs is nice to gather information, but your document quickly became messy. Trello is better to gather information semantically, but as Google Docs, you can't visualise your planning in time and space.
+**Save time and be better organised -** During this trip to Japan, we have realised we needed a tool to help us to organise this big adventure. Of course, there were a lot of tools available for us: Google Docs, Trello, Google Maps. A lot of tools, but nothing to gather everything in the same place and make it practical. Google Docs is nice to gather information, but our document quickly became messy. Trello is better to gather information semantically, but as Google Docs, we can't visualise our planning in time and space.
 
 > We spent 3 days planning our trip, but with a better tool, we would have been able to spend less time.
 
@@ -53,9 +53,9 @@ Facing this issue, I started to draw a mindmap. This helped me to consider other
 
 **Checklist and Organisation -** Making lists is still one of the best and easiest way to plan things and be sure not to forget anything. Integrate a checklist feature was obvious to me, as well as to give some pieces of advice to travelers, especially how to travel sustainably.
 
-**Map -** Integrate a map so that users can find every place they want to add to their trip. The aim is to add a location to your trip directly from the app.
+**Map -** Integrate a map so that users can find every place they want to add to their trip. The aim is to add a location to his trip directly from the app.
 
-**Dual-Visualisation -** It seems important to me to be able to visualise a trip both in time and in space, especially when you want to plan many things. In most cases, a road trip is a long journey so travelers need to visualise their trip on a one-month scale and even more. Having this dual visualisation allows travelers to better make decisions and see opportunities like - "hey, this place is near from another one we already visit, so we can go there too" or "ho, as we can see on the map, there are so many things to see there, and according to the agenda, we still have a few days, so we can spend one more night there".
+**Dual-Visualisation -** It seems important to me to be able to visualise a trip both in time and in space, especially when we want to plan many things. In most cases, a road trip is a long journey so travelers need to visualise their trip on a one-month scale and even more. Having this dual visualisation allows travelers to better make decisions and see opportunities like - "hey, this place is near from another one we already visit, so we can go there too" or "ho, as we can see on the map, there are so many things to see there, and according to the agenda, we still have a few days, so we can spend one more night there".
 
 **Categorisation & Journey Schema -** To talk about visualization again, the categorisation of all the different stops is something important. If travelers have many stops during a few days, to visually differentiate roads, activities, and accommodations would make it easier to understand the journey schema.
 
@@ -67,7 +67,7 @@ Facing this issue, I started to draw a mindmap. This helped me to consider other
 
 ###### Trips List
 
-**Viewing a trip -** When we select a trip on the previous screen, we can browse it through this page. Three call-to-action buttons allow us to access quickly to the three main features: agenda, map, and checklist. By scrolling, we can have a short preview of these three features and can access it (clicking on the mini-map open the map view).
+**Viewing a trip -** When one selects a trip on the previous screen, one can browse it through this page. Three call-to-action buttons allow us to access quickly to the three main features: agenda, map, and checklist. By scrolling, one can have a short preview of these three features and can access it (clicking on the mini-map open the map view).
 
 ![https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_home.gif)
 
@@ -79,7 +79,7 @@ Facing this issue, I started to draw a mindmap. This helped me to consider other
 
 ###### Add a new stop to the trip
 
-**Polls -** When the user creates a new stop, it is possible to create a poll inside it. It will drive travelers to express opinions easily and so to make decisions quicker. To not be influenced by the vote of others, you can not see poll results before voting yourself. You can discuss with friends decisions through comments.
+**Polls -** When the user creates a new stop, it is possible to create a poll inside it. It will drive travelers to express opinions easily and so to make decisions quicker. To not be influenced by the vote of others, one can not see poll results before voting oneself. One can discuss with friends decisions through comments.
 
 ![https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_polls.png)
 
@@ -121,5 +121,5 @@ Even if my conviction about traveling with a sustainable manner is strong, my ai
 From feedbacks that I had from people and personal thoughts, things that I would improve on this app would be:
 
 * Adding a bottom menu would be better because it would make the navigation easier on the app
-* Switching between the map and the agenda need to be easier 
+* Switching between the map and the agenda need to be easier
 * Working on a desktop and tablet version could be interested, especially for complex and long-term travels
