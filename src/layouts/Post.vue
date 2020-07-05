@@ -2,7 +2,11 @@
 <div class="layout">
        
     <Header bg="#FFFFFF" />
-    <slot></slot>
+    <transition name="fade" appear>
+        <div>
+             <slot></slot>
+        </div>
+    </transition>
     <Footer hasContact="false" />
        
 </div>
@@ -28,7 +32,13 @@ export default {
 
 
 <style lang="scss" >
+.fade-enter-active {
+  transition: opacity .5s;
+}
 
+.fade-enter {
+  opacity: 0;
+}
 .image_container{
     position: relative;
     padding-bottom: 70%;

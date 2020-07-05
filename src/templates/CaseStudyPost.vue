@@ -16,12 +16,18 @@
             <div class="content" v-html="$page.post.content">
                 
             </div>
-            
-            <a href="/" class="next">
-                Next project
-            </a>
+            <g-link :to="this.next_project.node.path" class="next">
+               
+              <div class="v-stack">
+                <h2>Next project</h2>  
+                <p class="">Pôle Emploi - Building a CRM for a government employment agency</p>
+              </div>
+             
+               <img src="/icons/arrow_right.svg" class="right-arrow">
+            </g-link>
+         
         </main>
-
+       
     </LayoutPost>
 </template>
 
@@ -34,9 +40,21 @@ query ProjectPost ($path: String!) {
     project_date (format:"MMMM YYYY")
     hero_image
     content
+    next_project
+  }
+  CaseStudies: allCaseStudyPost(sortBy: "project_date", order: DESC) {
+        edges {
+            node {
+                id
+                title
+                thumbnail 
+                path
+            }
+        }
   }
 }
 </page-query>
+
 
 
 
@@ -63,14 +81,22 @@ export default {
     }
   },
   computed: {
+    next_project(){
+      return this.$page.CaseStudies.edges.find(c => {
+          return c.node.path === '/' + this.$page.post.next_project.replace('.md','/').replace('.','-').replace('_','-')
+      })
+    },
     intro(){
       return md.render(this.$page.post.intro)
     }
+  },
+  mounted(){
+    console.log(this.next_project);
   }
 }
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 .project-header {
   padding: 20vh 0 4rem 0;
 }
@@ -97,6 +123,54 @@ export default {
   content: '';
 }
 
-
+.next{
+  margin: 4rem 0 0 0;
+  display: flex;
+   align-items: center;
+  flex-direction: row;
+  border-top: 2px solid #FAFAFA;
+  background: #FAFAFA;
+  border-radius: 6px;
+  padding: 30px 40px;
+  @media screen and (max-width: 500px) {
+    padding: 20px 20px;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+ 
+  justify-content: space-between;
+  position: relative;
+  box-shadow: 0px 9.51638px 16.5284px rgba(0, 0, 0, 0.0), 0px 76px 0px rgba(0, 0, 0, 0.0);
+  transition: all .4s ease-in-out;
+  &:hover{
+    box-shadow: 0px 9.51638px 16.5284px rgba(0, 0, 0, 0.035), 0px 76px 90px rgba(0, 0, 0, 0.07);
+  }
+  .v-stack{
+    display: flex;
+    flex-direction: column;
+    
+    h2{
+      margin: 0;
+      padding: 0 0 1rem;
+       @media screen and (max-width: 500px) {
+        padding: 0 0 0 0;
+      }
+    }
+    p{
+      max-width: 80%;
+      @media screen and (max-width: 500px) {
+        max-width: 100%;
+      }
+     
+    }
+  }
+  .right-arrow{
+     @media screen and (max-width: 500px) {
+        display: none;
+      }
+    height:24px;
+    width:24px;
+  }
+}
 
 </style>
