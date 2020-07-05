@@ -116,6 +116,6 @@ In both cases, colors and icons allow travelers to easily differentiate stops ty
 
 ## In a nutshell
 
-Even if my conviction about traveling with a sustainable manner is strong, my aim through this app was not to push people to do this way, but to make things easier for those who want.
+Even if my conviction about traveling with a sustainable manner is strong, my aim through this app was not to push people to do it this way, but to make things easier for those who want. 
 
 This solution allows travelers to feel free about the way they organise their trip. Some travelers prefer having a very strict schedule, so the agenda feature would suit them - whereas some others want to stay flexible, so checklist and map would be enough.
