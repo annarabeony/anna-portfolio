@@ -14,6 +14,15 @@
             </div>
             <div class="separator"></div>
             <div class="x-content" v-html="$page.post.content" ></div>
+            <g-link :to="this.next_project.node.path" class="next">
+               
+              <div class="v-stack">
+                <h2>Next project</h2>  
+                <p class="">{{this.next_project.node.title}}</p>
+              </div>
+             
+               <img src="/icons/arrow_right.svg" class="right-arrow">
+            </g-link>
         </main>
    
     </LayoutPost>
@@ -28,7 +37,18 @@ query ProjectPost ($path: String!) {
     project_date (format:"MMMM YYYY")
     hero_image 
     content
+    next_project
   }
+   Projects: allProjectPost(sortBy: "project_date", order: DESC) {
+        edges {
+            node {
+                id
+                title
+                thumbnail
+                path
+            }
+        }
+    }
 }
 </page-query>
 
@@ -55,6 +75,14 @@ export default {
     }
   },
   computed: {
+   next_project(){
+   
+      let next =  this.$page.Projects.edges.find(c => {
+          return c.node.path === '/' + this.$page.post.next_project.replace('.md','/').replace('.','-').replace('_','-')
+      })
+        console.log(next)
+      return next
+    },
     intro(){
       return md.render(this.$page.post.intro)
     }

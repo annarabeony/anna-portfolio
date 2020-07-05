@@ -16,6 +16,7 @@
             <div class="content" v-html="$page.post.content">
                 
             </div>
+           
         </main>
 
     </LayoutPost>
@@ -31,7 +32,18 @@ query ExperiencePost ($path: String!) {
     project_end (format:"MMMM YYYY")
     hero_image
     content
+
   }
+   Experiences: allExperiencePost(sortBy: "project_start", order: DESC) {
+        edges {
+            node {
+                id
+                title
+                thumbnail 
+                path
+            }
+        }
+    },
 }
 </page-query>
 
