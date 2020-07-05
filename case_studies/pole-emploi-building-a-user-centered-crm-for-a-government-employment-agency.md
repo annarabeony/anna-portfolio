@@ -103,11 +103,13 @@ As required, we focused our work on the company adviser workflow, while consider
 
 ![https://annarabeonybucket.s3.eu-west-2.amazonaws.com/Inbox.png](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/Inbox.png)
 
-**Inbox & Tasks Priorisation** - As I've mentioned before, an adviser has a lot of files to manage, and it's often complicated to know when to start at the beginning of the day. The inbox would allow the user to prioritise and order those files (sort by start date or due date).
+**Inbox & Tasks Priorisation** - The inbox allows advisers to prioritise and order job offers (sort by start date or due date). Those job offers to manage are also categorised according to the status, so that certain job offers already completed, but which nevertheless require follow-up, are highlighted.
 
 ![https://annarabeonybucket.s3.eu-west-2.amazonaws.com/applicants.png](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/applicants.png)
 
 ###### Applicants Board
+
+**Applicant Board -** Once the user selects a file to work on, he/she can find all the applicants involved in the recruitment process and check the job detail and requirements on the sidebar at the right. 
 
 ![https://annarabeonybucket.s3.eu-west-2.amazonaws.com/Pool.png](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/Pool.png)
 
@@ -117,11 +119,11 @@ As required, we focused our work on the company adviser workflow, while consider
 
 ###### Applicants Pool - Filters
 
+Inside a job offer, advisers can access through the "pool" tab to a list of candidates who match with the job offer criterias. It is possible to edit those search criteria via the "filter" sidebar. 
+
 ![https://annarabeonybucket.s3.eu-west-2.amazonaws.com/applicantprofile.png](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/applicantprofile.png)
 
 ###### Applicant Profile
-
-**Search for applicants** - Once the user selects a file to work on, he/she can find all the applicants involved in the recruitment process and check the job detail and requirements on the sidebar at the right. The user can also access to the job seeker pool which is pre-filled with filters according to this specific job offer. From this page, the user can select an applicant to know more about her/him and add this job seeker on the process or not.
 
 ![https://annarabeonybucket.s3.eu-west-2.amazonaws.com/changestatus.png](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/changestatus.png)
 
@@ -133,11 +135,13 @@ As required, we focused our work on the company adviser workflow, while consider
 
 ###### Planning Tab
 
+**Planning Tab** - Inside this tab, advisers can create reminders, events and notes related to this job offer. The sidebar on the right is still there, and if advisers select the activity tab, they access to the activity history, so that they know updates made by their colleagues about the job offer. 
+
 ![https://annarabeonybucket.s3.eu-west-2.amazonaws.com/modalnote.png](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/modalnote.png)
 
 ###### Create a new note
 
-**Reminders** - Advisers can create task reminders (call back the company to take some news, check the recruitment advancement, etc.), but they also have the possibility of adding a reminder inside a note.
+**Reminders** - Advisers can create task reminders (call back the company to take some news, check the recruitment advancement, etc.), and they also have the possibility of adding a reminder inside a note.
 
 ## User testing
 
@@ -149,4 +153,4 @@ One adviser came to the design school. Her feedback was very positive:
 
 ## In a nutshell
 
-Although the user testing phase seemed too short for us, this project made us grow as designers. The project was all the more challenging because we were not originally familiar with the subject. This difficulty pushed us to deepen our research phase as much as possible to better identify problems that advisers may encounter in their daily working time. In addition, I was also able to realize that working on the conception of professional software was something that I really liked.
+This project made us grow as designers because we had the chance to meet real users and get a lot of contexts.That was such an important thing because we were not originally familiar with the subject. This difficulty pushed us to deepen our research phase as much as possible to better identify problems that advisers may encounter in their daily working time. In addition, I was also able to realize that working on the conception of professional software was something that I really liked.
