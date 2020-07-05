@@ -15,7 +15,7 @@ next_project: case_studies/create-a-user-centric-cms-for-software-agents.md
 
 **Eco-Friendly Road-Trip -** As I have just said previously, traveling and respecting the environment are two things that can work together. If we make some efforts, we realize that most of the activities we love to do could be done more sustainably. We can first prefer public transports, bike, or even our own feet to travel. Then we can buy products to local sellers in the country we are visiting. We can sleep at people's homes to generate money for local people, rather than huge international resorts, or we can use our tent while respecting the nature around us without generating waste. There are so many alternatives and many more opportunities and adventures to live in this way of traveling.
 
-**Planning a sustainable trip -** But why most of the people don't travel this way? Here is the pain point I wanted to work on. Organising a road-trip by car is quite practical because you can go whenever you want and feel free. But the big issue will be your carbon footprint. Now, if you decide to make this road-trip more sustainable and eco-friendly, you will need to be aware of bus or train timetables - or if you want to ride Europe by bike, you will need to plan routes you should take to ride quietly (as the [EuroVelo](https://fr.eurovelo.com/), a cycle route network all around Europe). So the pain point here is that organising a road-trip without a car is much more complex. 
+**Planning a sustainable trip -** But why most of the people don't travel this way? Here is the pain point I wanted to work on. Organising a road-trip by car is quite practical because you can go whenever you want and feel free. But the big issue will be your carbon footprint. Now, if you decide to make this road-trip more sustainable and eco-friendly, you will need to be aware of bus or train timetables - or if you want to ride Europe by bike, you will need to plan routes you should take to ride quietly (as the [EuroVelo](https://fr.eurovelo.com/), a cycle route network all around Europe). So the pain point here is that organising a road-trip without a car is much more complex.
 
 I have done a road-trip with two amazing friends on Kyushu island, in Japan, for 3 weeks last March. We had no car, we were in the Japanese countryside (so with very few choices in terms of public transport), but we traveled around 10 cities in Kyushu. I let you imagine the kind of organisation we needed for this road-trip. The funny thing is over there, everyone asked us "But, you don't have any car?". One day, a woman was shocked to learn that we have planned to go down a mount by feet, even if it would take 4 hours. So if we succeed to travel without a car even in the Japanese countryside where bus timetables are only available on paper in situ, I am sure that traveling in Europe in an eco-friendly manner is not so complicated.
 
@@ -67,13 +67,13 @@ Facing this issue, I started to draw a mindmap. This helped me to consider other
 
 ###### Trips List
 
-**Viewing a trip -** When we select a trip on the previous screen, we can browse it through this page. Three call-to-action buttons allow us to access quickly to the three main features: agenda, map, and checklist. By scrolling, we can have a short preview of these three features.
+**Viewing a trip -** When we select a trip on the previous screen, we can browse it through this page. Three call-to-action buttons allow us to access quickly to the three main features: agenda, map, and checklist. By scrolling, we can have a short preview of these three features and can access it (clicking on the mini-map open the map view).
 
 ![https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_home.gif)
 
 ###### Home Screen (left) - Notifications (right)
 
-**Create a new stop -** Create a new stop to the trip should be quick to do. As filling a form could be painful, the minimum of information (date, location, type of activity) is required and the rest is optional, such as date, description, external link, poll, and location. To simplify the experience, people can also create a new stop from an app thanks to the "share" button, so that information like external link and title will be pre-filled, to make it easier and quicker. 
+**Create a new stop -** Create a new stop to the trip should be quick to do. As filling a form could be painful, the minimum of information (date, location, type of activity) is required and the rest is optional, such as date, description, external link, poll, and location. To simplify the experience, people can also create a new stop from an app thanks to the "share" button, so that information like external link and title will be pre-filled, to make it easier and quicker.
 
 ![https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_new_stop.png)
 
@@ -116,6 +116,10 @@ In both cases, colors and icons allow travelers to easily differentiate stops ty
 
 ## In a nutshell
 
-Even if my conviction about traveling with a sustainable manner is strong, my aim through this app was not to push people to do it this way, but to make things easier for those who want. 
+Even if my conviction about traveling with a sustainable manner is strong, my aim through this app was not to push people to do it this way, but to make things easier for those who want.
 
-This solution allows travelers to feel free about the way they organise their trip. Some travelers prefer having a very strict schedule, so the agenda feature would suit them - whereas some others want to stay flexible, so checklist and map would be enough.
+From feedbacks that I had from people and personal thoughts, things that I would improve on this app would be:
+
+* Adding a bottom menu would be better because it would make the navigation easier on the app
+* Switching between the map and the agenda need to be easier 
+* Working on a desktop and tablet version could be interested, especially for complex and long-term travels
