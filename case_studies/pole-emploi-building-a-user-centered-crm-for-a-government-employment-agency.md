@@ -18,14 +18,14 @@ next_project: case_studies/nomad.plan-an-eco-friendly-road-trip-among-friends.md
 ---
 ## Background
 
-The Pôle Emploi team came to us with a precise request: improving the company adviser workflow at Pôle Emploi. This French governmental agency is very famous in France, and also because their services are free, a lot of job seekers and companies request their help. With this huge amount of requests, it is more and more complicated for the advisers to manage every applicant's requests, as well as job offers from companies by respecting due date and constraints. 
+The Pôle Emploi team came to us with a precise request: improving the company adviser workflow at Pôle Emploi. This French governmental agency is very famous in France, and also because their services are free, a lot of job seekers and companies request their help. With this huge amount of requests, it is more and more complicated for the advisers to manage every applicant's requests, as well as job offers from companies by respecting due date and constraints. Because of the large number of requests, clients' follow-up is more and more complicated to manage, thus Pôle Emploi realise that their perceived value is under their real value. 
 
 **The main requests from Pôle Emploi were:**
 
 * Focus and improve the company advisers workflow and care about the company follow-up
 * Build a tool as an intelligent assistant to help advisers in the recruitment phase
 * Help advisers to find the best job offers thanks to intelligent job offer suggestions
-* Help advisers to manage a large number of job offers and the company follow-up 
+* Help advisers to manage a large number of job offers and the company follow-up
 
 ## Research & Understanding
 
