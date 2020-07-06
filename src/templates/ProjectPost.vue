@@ -91,6 +91,24 @@ export default {
 </script>
 
 <style scoped>
+.content a {
+    position:relative;
+    text-decoration: none;
+   
+    font-weight: 700;
+}
+.content a::before {
+    position: absolute;
+    bottom: -3px;
+    height: 2px;
+    width: 100%;
+    background: #2c2c2c;
+    content: "";
+}
+a{
+    text-decoration:none;
+     color: #2C2C2C;
+}
 .project-header {
   padding: 20vh 0 4rem 0;
 }
