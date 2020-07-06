@@ -10,7 +10,7 @@ project_end: 2020-02-01T00:00:00.000+00:00
 ---
 ## Why Shanghai?
 
-I've moved to China in August 2019. It was for me like to head out into the unknown, but it was certainly the best choice I've never ever made. Be immersed in a very different culture allow me to learn a lot, about our world and about myself as well. But why shanghai specifically? First of all, Shanghai is a crazy city, because it gives you so many perspectives and opportunities. It's like everything is possible. Also, life goes faster, and technologies are developed very quickly. So that as a product designer, moving in Shanghai was an amazing opportunity.
+I've moved to China in August 2019. It was for me like to head out into the unknown, but it was certainly the best choice I've made. Be immersed in a very different culture allow me to learn a lot, about our world and about myself as well. But why shanghai specifically? First of all, Shanghai is a crazy city, because it gives you so many perspectives and opportunities. It's like everything is possible. Also, life goes faster, and technologies are developed very quickly. So that as a product designer, moving in Shanghai was an amazing opportunity.
 
 ## Wiredcraft
 
