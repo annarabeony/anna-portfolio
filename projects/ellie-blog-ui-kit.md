@@ -28,7 +28,7 @@ Working with common spacings for every card, design components to make it as mos
 
 ## Style Guide
 
-Typography is an important part of visual design in my opinion. First of all, typography defines how the user will read the text, thanks to how the hierarchy was built. Typography allows information hierarchy.
+Typography is an important part of visual design in my opinion. First of all, typography defines how the user will read the text, thanks to how the hierarchy was built. 
 
 Then I've used a primary color and several shades of grey. I've also used icons from [Eva Icons,](https://akveo.github.io/eva-icons/#/) an icon set that I like a lot.
 
