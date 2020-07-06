@@ -16,7 +16,7 @@ I've moved to China in August 2019. It was for me like to head out into the unkn
 
 [Wiredcraft](https://wiredcraft.com/) is a digital product agency that owns offices in Paris and Hong-Kong too. This agency works for famous fashion brands like Channel, Nike, Blueberry, Tiffany&Co. Wiredcraft mostly develops Wechat Mini-Programs. You should know that Wechat, and Mini-Programs which could be associated with, represent a large part of Chinese e-commerce. In China, every brand owns its Wechat Mini-Program to allow to their consumers a full-digital experience
 
-That's where Omni comes in, a platform intended to global brands that would like to give a cross-channel experience to their customers. Omni works on different branches: analytics, orders, and events management. Working on a such complex project was not an easy task for me, but I've learned so much. I've gained in speed, and I've learned to target problems and needs much faster.
+That's where [Omni](https://enterpriseomni.com/) comes in, a platform intended to global brands that would like to give a cross-channel experience to their customers. Omni works on different branches: analytics, orders, and events management. Working on a such complex project was not an easy task for me, but I've learned so much. I've gained in speed, and I've learned to target problems and needs much faster.
 
 I also worked with a senior UI/UX designer to design a WeChat mini-program template. The main issue here was to make it suitable to as many brands as possible, so we worked on a lot of edge cases and possibilities to make this experience customizable and accessible.
 
