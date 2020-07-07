@@ -9,6 +9,12 @@ module.exports = {
   siteDescription: "Anna Rabeony - I’m a Product Design Student based in London, previously interned with Wiredcraft, in Shanghai and with Ucaya, in Nantes. If you’re interested in getting in touch, feel free to contact me",
   plugins: [
     {
+      use: '@gridsome/plugin-google-analytics',
+      options: {
+        id: 'UA-112022236-1'
+      }
+    },
+    {
       use: "@gridsome/source-filesystem",
       options: {
         path: "case_studies/**/*.md",
