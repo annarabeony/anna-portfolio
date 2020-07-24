@@ -20,7 +20,7 @@
                      <a href="https://dribbble.com/AnnaRabeony/" target="_blank">
                          <img src="/icons/Dribbble.svg" alt="">
                      </a>
-                     <a href="mailto:contact@anna-rabeony.com" target="_blank">
+                     <a href="mailto:anna.rabeony.pro@gmail.com" target="_blank">
                          <img src="/icons/Mail.svg" alt="">
                      </a>
                      <a href="https://www.linkedin.com/in/anna-rabeony-747b35149/" target="_blank">
