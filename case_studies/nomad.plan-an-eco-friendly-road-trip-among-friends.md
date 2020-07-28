@@ -87,7 +87,7 @@ Facing this issue, I started to draw a mindmap. This helped me to consider other
 
 **Maps & Itinerary -** The first thing one will see when opening the map will be the different stops of the itinerary and the next stop highlighted on the bottom-sheet. When one drags this bottom-sheet to the top, one can have a detailed view of the itinerary with all the stops. The selected stop (in green) will be defined according to the current position of the user.
 
-![https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_map_itinerary.png)
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_map_itinerary2.png)
 
 ###### Trip itinerary
 
