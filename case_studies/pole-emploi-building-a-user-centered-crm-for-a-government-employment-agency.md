@@ -7,7 +7,7 @@ title: Pôle Emploi - Building a CRM for a government employment agency
 intro: Pole Emploi is a French governmental agency which helps unemployed people to
   find jobs and provides them with financial aid. The agency also advises companies
   in their recruitment process and helps them to find the right candidates. In May
-  2018, we had the opportunity at school to work in partnership with this agency.
+  2019, we had the opportunity at school to work in partnership with this agency.
   The aim was to bring fresh ideas so as to help Pole Emploi improving their workflow
   with companies and job seekers. During this project, I had the chance to work with
   two amazing teammates, [Lengliang Li](https://www.behance.net/lilenglian6085 "lengliang
