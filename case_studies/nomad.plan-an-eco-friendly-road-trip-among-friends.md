@@ -69,7 +69,7 @@ Facing this issue, I started to draw a mindmap. This helped me to consider other
 
 **Viewing a trip -** When one selects a trip on the previous screen, one can browse it through this page. Three call-to-action buttons allow us to access quickly to the three main features: agenda, map, and checklist. By scrolling, one can have a short preview of these three features and can access it (clicking on the mini-map open the map view).
 
-![https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_home.gif)
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/nomad_home.gif)
 
 ###### Home Screen (left) - Notifications (right)
 
