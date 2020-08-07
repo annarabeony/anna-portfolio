@@ -101,7 +101,7 @@ As required, we focused our work on the company adviser workflow, while consider
 
 ## High Fidelity Screens
 
-![https://annarabeonybucket.s3.eu-west-2.amazonaws.com/Inbox.png](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/Inbox.png)
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/Inbox.png)
 
 **Inbox & Tasks Priorisation** - The inbox allows advisers to prioritise and order job offers (sort by start date or due date). Those job offers to manage are also categorised according to the status, so that certain job offers already completed, but which nevertheless require follow-up, are highlighted.
 
