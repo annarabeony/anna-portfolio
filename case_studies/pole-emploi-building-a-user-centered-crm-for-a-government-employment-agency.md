@@ -111,17 +111,17 @@ As required, we focused our work on the company adviser workflow, while consider
 
 **Applicant Board -** Once the user selects a file to work on, he/she can find all the applicants involved in the recruitment process and check the job detail and requirements on the sidebar at the right.
 
-![https://annarabeonybucket.s3.eu-west-2.amazonaws.com/Pool.png](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/Pool.png)
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/applicants.png)
 
 ###### Applicants Pool
 
-![https://annarabeonybucket.s3.eu-west-2.amazonaws.com/filters.png](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/filters.png)
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/filters.png)
 
 ###### Applicants Pool - Filters
 
-Inside a job offer, advisers can access through the "pool" tab to a list of candidates who match with the job offer criterias. It is possible to edit those search criteria via the "filter" sidebar.
+Inside a job offer, advisers can access through the "pool" tab to a list of candidates who match with the job offer criterias. It is possible to edit those search criteria via the "filter" sidebar. 
 
-![https://annarabeonybucket.s3.eu-west-2.amazonaws.com/applicantprofile.png](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/applicantprofile.png)
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/applicantprofile.png)
 
 ###### Applicant Profile
 
