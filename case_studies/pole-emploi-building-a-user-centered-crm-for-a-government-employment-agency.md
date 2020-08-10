@@ -111,15 +111,15 @@ As required, we focused our work on the company adviser workflow, while consider
 
 **Applicant Board -** Once the user selects a file to work on, he/she can find all the applicants involved in the recruitment process and check the job detail and requirements on the sidebar at the right.
 
-![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/applicants.png)
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/Pool.png)
 
-###### Applicants Pool
+Applicants Pool
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/filters.png)
 
 ###### Applicants Pool - Filters
 
-Inside a job offer, advisers can access through the "pool" tab to a list of candidates who match with the job offer criterias. It is possible to edit those search criteria via the "filter" sidebar. 
+Inside a job offer, advisers can access through the "pool" tab to a list of candidates who match with the job offer criterias. It is possible to edit those search criteria via the "filter" sidebar.
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/applicantprofile.png)
 
@@ -153,4 +153,4 @@ One adviser came to the design school. Her feedback was very positive:
 
 ## In a nutshell
 
-This project made us grow as designers because we had the chance to meet real users and get a lot of contexts.That was such an important thing because we were not originally familiar with the subject. This difficulty pushed us to deepen our research phase as much as possible to better identify problems that advisers may encounter in their daily working time. In addition, I was also able to realize that working on the conception of professional software was something that I really liked.
+This project made us grow as designers because we had the chance to meet real users and get a lot of contexts. That was such an important thing because we were not originally familiar with the subject. This difficulty pushed us to deepen our research phase as much as possible to better identify problems that advisers may encounter in their daily working time. In addition, I was also able to realize that working on the conception of professional software was something that I really liked.
