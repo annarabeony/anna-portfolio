@@ -143,7 +143,7 @@ Inside a job offer, advisers can access through the "pool" tab to a list of cand
 
 **Reminders** - Advisers can create task reminders (call back the company to take some news, check the recruitment advancement, etc.), and they also have the possibility of adding a reminder inside a note.
 
-## User testing
+## Feedbacks
 
 One adviser came to the design school. Her feedback was very positive:
 
