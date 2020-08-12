@@ -3,7 +3,7 @@ date: 2020-06-29
 project_date: 2019-04-30T23:00:00.000+00:00
 thumbnail: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/poleemploi_trumbnail.png
 hero_image: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/poleemploi_hero_image.png
-title: Pôle Emploi - Building a CRM for a government employment agency
+title: Pôle Emploi - Building a recruitment tool for an employment agency
 intro: Pole Emploi is a French governmental agency which helps unemployed people to
   find jobs and provides them with financial aid. The agency also advises companies
   in their recruitment process and helps them to find the right candidates. In May
