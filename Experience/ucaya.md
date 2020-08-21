@@ -11,7 +11,7 @@ project_end: 2018-10-02T23:00:00.000+00:00
 ---
 ## laVitre
 
-I've joined Ucaya in July 2016. In fact, it was my very first experience in a design agency. During 4 months, I had the opportunity to work on the product called "[la Vitre](https://lavitre.fr/ "la Vitre")" ("the window" in English). This project is an innovative video conference tool for companies. The idea is to allow companies that own several offices, or companies where people work remotely, to keep people connected together. Each office has a large touchscreen display which they switch on every morning and can discuss with people from another office through this screen whenever they want during all the day.
+I've joined Ucaya in July 2016. In fact, it was my very first experience in a design agency. During 4 months, I had the opportunity to work on the product called [la Vitre](https://lavitre.fr/ "la Vitre") ("the window" in English). This project is an innovative video conference tool for companies. The idea is to allow companies that own several offices, or companies where people work remotely, to keep people connected together. Each office has a large touchscreen display which they switch on every morning and can discuss with people from another office through this screen whenever they want during all the day.
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/lavitre.png)
 
