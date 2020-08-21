@@ -19,6 +19,10 @@ I've joined Ucaya in July 2016. In fact, it was my very first experience in a de
 
 During this internship, I've worked on the mobile app. Its aim is to control remotely the screen. I've also worked on several possible interactions (knock in the touchscreen display to call someone) and different product features (handwrite a message, share files and media and hang on it as if it's a board, collaborate, and work together on a same shared whiteboard).
 
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/lavitreoverview.png)
+
+###### Product features © laVitre
+
 ## In a nutshell
 
 I came at Ucaya a few months before the product release, I had the opportunity to participate in the product launch and its promotion. I was also able to attend product demos facing users, and that was a very exciting part of the project. It was so nice to see this project become a reality, and also get very good feedbacks from the users, all very curious about the product.
