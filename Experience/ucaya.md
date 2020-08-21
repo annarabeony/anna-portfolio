@@ -2,7 +2,7 @@
 date: 2020-06-14
 project_date: '2018-12-11T00:00:00.000+00:00'
 thumbnail: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/ucaya_trumbnail.png
-hero_image: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/ucaya_hero_image.png
+hero_image: https://annarabeonybucket.s3.eu-west-2.amazonaws.com/lavitre_hero-image.png
 title: Ucaya
 intro: ''
 project_start: 2018-07-03T23:00:00.000+00:00
