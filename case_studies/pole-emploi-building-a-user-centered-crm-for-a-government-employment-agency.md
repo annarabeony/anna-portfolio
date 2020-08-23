@@ -148,20 +148,26 @@ Inside a job offer, advisers can access through the "pool" tab to a list of cand
 From our Figma prototype, we have used Maze to lead some user testing. We have tested our prototype with 5 different advisers who worked at Pole Emploi, and give them instructions. We tested 3 scenarios:
 
 * Mission 1 - How to find the most urgent job offers to work on (so check if the Inbox feature's efficiency)
-* Mission 2 - How to add an applicant to a job offer
+* Mission 2 - How to add an applicant to a job offer. The job offer is a partial-time contract.
 * Mission 3 - How to add a reminder to a job offer
 
-We compared testers' paths with expected paths and analysed results we had after the tests. 
+We compared testers' paths with expected paths and analysed results we had after the tests.
 
-\[inbox heatmap\]
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/user_testing_mission1.png)
 
-One feature we wanted to test was the inbox. We discovered that a little more than half of the testers stayed in the inbox whereas the others went to the "job offers" page. 
+###### Mission 1 - Inbox Heatmap
 
-\[add applicant paths map\]
+One feature we wanted to test was the inbox. We discovered that a little more than half of the testers stayed in the inbox whereas the others went to the "job offers" page.
+
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/user_testing_mission2.png)
+
+###### Mission 2 - Testers Paths
 
 To add an applicant to a job offer, 2 testers didn't use the filters to search for partial-time job applicants and directly clicked on some applicants' profiles to check the desired contracted type.
 
-\[reminder heatmap\]
+![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/user_testing_mission3.png)
+
+###### Mission 3 - Job Offer Screen Heatmap
 
 Through the test results, we realised that finding the reminder feature was not as obvious as we expected. Some testers didn't go directly to the "planning" tab, they sometimes looked at the "activity" tab in the sidebar.
 
