@@ -143,13 +143,35 @@ Inside a job offer, advisers can access through the "pool" tab to a list of cand
 
 **Reminders** - Advisers can create task reminders (call back the company to take some news, check the recruitment advancement, etc.), and they also have the possibility of adding a reminder inside a note.
 
+## User Testing
+
+From our Figma prototype, we have used Maze to lead some user testing. We have tested our prototype with 5 different advisers who worked at Pole Emploi, and give them instructions. We tested 3 scenarios:
+
+* Mission 1 - How to find the most urgent job offers to work on (so check if the Inbox feature's efficiency)
+* Mission 2 - How to add an applicant to a job offer
+* Mission 3 - How to add a reminder to a job offer
+
+We compared testers' paths with expected paths and analysed results we had after the tests. 
+
+\[inbox heatmap\]
+
+One feature we wanted to test was the inbox. We discovered that a little more than half of the testers stayed in the inbox whereas the others went to the "job offers" page. 
+
+\[add applicant paths map\]
+
+To add an applicant to a job offer, 2 testers didn't use the filters to search for partial-time job applicants and directly clicked on some applicants' profiles to check the desired contracted type.
+
+\[reminder heatmap\]
+
+Through the test results, we realised that finding the reminder feature was not as obvious as we expected. Some testers didn't go directly to the "planning" tab, they sometimes looked at the "activity" tab in the sidebar.
+
 ## Feedbacks
 
-One adviser came to the design school. Her feedback was very positive:
+In addition to the tests, we asked advisers some general feedbacks about our solution:
 
-* She found our interfaces generally readable and relevant
-* She was attracted by the kanban view for managing applicants in the recruitment process
-* She found the planning tab very relevant and would have liked emails to be added there
+* They found our interfaces generally readable and relevant
+* They were attracted by the kanban view for managing applicants in the recruitment process
+* They found the planning tab very relevant and would have liked emails to be added there
 
 ## In a nutshell
 
