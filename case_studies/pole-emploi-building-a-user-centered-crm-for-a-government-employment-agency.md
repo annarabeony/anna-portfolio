@@ -157,19 +157,19 @@ We compared testers' paths with expected paths and analysed results we had after
 
 ###### Mission 1 - Inbox Heatmap
 
-One feature we wanted to test was the inbox. We discovered that a little more than half of the testers stayed in the inbox whereas the others went to the "job offers" page.
+**Mission 1 -** One feature we wanted to test was the inbox. We discovered that a little more than half of the testers stayed in the inbox whereas the others went to the "job offers" page.
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/users_testing_mission2.png)
 
 ###### Mission 2 - Testers Paths
 
-To add an applicant to a job offer, 2 testers didn't use the filters to search for partial-time job applicants and directly clicked on some applicants' profiles to check the desired contracted type.
+**Mission 2 -** To add an applicant to a job offer, 2 testers didn't use the filters to search for partial-time job applicants and directly clicked on some applicants' profiles to check the desired contracted type.
 
 ![](https://annarabeonybucket.s3.eu-west-2.amazonaws.com/users_testing_mission3.png)
 
 ###### Mission 3 - Job Offer Screen Heatmap
 
-Through the test results, we realised that finding the reminder feature was not as obvious as we expected. Some testers didn't go directly to the "planning" tab, they sometimes looked at the "activity" tab in the sidebar.
+**Mission 3 -**Through the test results, we realised that finding the reminder feature was not as obvious as we expected. Some testers didn't go directly to the "planning" tab, they sometimes looked at the "activity" tab in the sidebar.
 
 ## Feedbacks
 
